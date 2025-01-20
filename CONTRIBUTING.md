@@ -1,6 +1,6 @@
-# Contributing to 50-Programming-Languages
+# Contributing to Programming-17
 
-Thank you for your interest in contributing to the 50-Programming-Languages project! Here are some guidelines to help you get started.
+Thank you for your interest in contributing to the Programming-17 project! Here are some guidelines to help you get started.
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ Thank you for your interest in contributing to the 50-Programming-Languages proj
 2. **Clone Your Fork**
    - Clone your forked repository to your local machine:
      ```sh
-     git clone https://github.com/Alexcj10/50-Programming-Languages.git
+     git clone https://github.com/Alexcj10/Programming-17.git
      ```
 
 3. **Set Up the Development Environment**
