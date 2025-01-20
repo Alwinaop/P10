@@ -1,6 +1,6 @@
-# 50 Programming Languages
+# Programming-17
 
-Welcome to the 50 Programming Languages project! This repository aims to explore and showcase implementations in 50 different programming languages. Whether you're a seasoned developer or just starting out, there's a place for you to contribute and learn.
+Welcome to the Programming-17 project! This repository aims to explore and showcase implementations in 17 essential programming languages. Whether you're a seasoned developer or just starting out, there's a place for you to contribute and learn.
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ Click the "Fork" button on the top right of this repository page to create your 
 Clone your forked repository to your local machine using the following command:
 
 ```sh
-git clone https://github.com/Alexcj10/50-Programming-Languages.git
+git clone https://github.com/Alexcj10/Programming-17.git
 ```
 ## Set Up Your Environment
 Once cloned, navigate to the project directory. Each programming language has its own directory within the **languages** directory, containing language-specific implementation files and a README.md with setup instructions. Follow the instructions specific to the programming language(s) you wish to contribute to.
