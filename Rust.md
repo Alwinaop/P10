@@ -34,8 +34,6 @@ Rust is a systems programming language that offers performance, safety, and conc
 
 ### YouTube Videos/Playlists for Learning Rust
 
-- **[Rust Programming Full Course | Learn Rust in 2024 - YouTube](https://www.youtube.com/watch?v=rQ_J9WH6CGk)** - A comprehensive video course that covers Rust programming fundamentals and advanced topics.
-
 - **[Rust Tutorial Full Course - YouTube](https://www.youtube.com/watch?v=ygL_xcavzQ4)** - An in-depth tutorial that teaches Rust programming from scratch, suitable for beginners and experienced developers.
 
 - **[Rust Programming Tutorial - YouTube](https://www.youtube.com/watch?v=MsocPEZBd-M)** - A beginner-friendly tutorial that introduces Rust programming concepts and guides you through building a simple project.
@@ -43,3 +41,18 @@ Rust is a systems programming language that offers performance, safety, and conc
 - **[Rust Crash Course - YouTube](https://www.youtube.com/watch?v=zF34dRivLOw)** - A quick overview of Rust's syntax and features, ideal for developers familiar with other programming languages.
 
 - **[Rust Programming Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=8M0g0g0g0g0)** - A step-by-step guide to learning Rust, focusing on practical examples and exercises.
+
+- **[Learn Rust Programming](https://www.youtube.com/playlist?list=PLwtLEJr-BkXZ9PmoAlqaFdoj47o61TWrS)**  
+  This playlist covers fundamental concepts of Rust, including control flow statements, variables, and iterators.
+
+- **[Rust Programming Tutorial](https://www.youtube.com/playlist?list=PLDbRgZ0OOEpUkWDGqp91ODn0dk7LPBAUL)**  
+  A series of tutorials introducing Rust programming, starting with the basics and progressing to more advanced topics.
+
+- **[Rust Programming Tutorials](https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)**  
+  This playlist provides a comprehensive introduction to Rust, covering topics from the basics to more advanced concepts.
+
+- **[Programming in Rust](https://www.youtube.com/playlist?list=PL6oj8ZA5xT3BckwfXZpXFI7FSdeKmIGeB)**  
+  A series that starts from the basics and guides you through various aspects of Rust programming.
+
+- **[Rust Programming Tutorial](https://www.youtube.com/playlist?list=PL5Dc_611BqV10BlttMgtqeUBe8LcgrLtX)**  
+  This playlist delves into Rust's primitive types and functions, providing a deeper understanding of how they work under the hood.
