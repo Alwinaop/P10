@@ -41,11 +41,11 @@ Additionally, Rust's rich type system and ownership model guarantee memory safet
 
 - **[Rust Tutorial Full Course - YouTube](https://www.youtube.com/watch?v=ygL_xcavzQ4)** - An in-depth tutorial that teaches Rust programming from scratch, suitable for beginners and experienced developers.
 
-- **[Rust Programming Tutorial - YouTube](https://www.youtube.com/watch?v=MsocPEZBd-M)** - A beginner-friendly tutorial that introduces Rust programming concepts and guides you through building a simple project.
+- **[Rust Programming Tutorial - YouTube](https://youtu.be/-lYeJeQ11OI?si=YFH3xhVaBLEGR6g4)** - A beginner-friendly tutorial that introduces Rust programming concepts and guides you through building a simple project.
 
 - **[Rust Crash Course - YouTube](https://www.youtube.com/watch?v=zF34dRivLOw)** - A quick overview of Rust's syntax and features, ideal for developers familiar with other programming languages.
 
-- **[Rust Programming Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=8M0g0g0g0g0)** - A step-by-step guide to learning Rust, focusing on practical examples and exercises.
+- **[Rust Programming Tutorial for Beginners - YouTube](https://youtu.be/R33h77nrMqc?si=nZX-UqGCFSC6R6EE)** - A step-by-step guide to learning Rust, focusing on practical examples and exercises.
 
 - **[Learn Rust Programming](https://www.youtube.com/playlist?list=PLwtLEJr-BkXZ9PmoAlqaFdoj47o61TWrS)** - This playlist covers fundamental concepts of Rust, including control flow statements, variables, and iterators.
 
