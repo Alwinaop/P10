@@ -25,13 +25,13 @@ Rust is a systems programming language that offers performance, safety, and conc
 - **[Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)** - This resource provides practical examples to help you understand Rust concepts through code snippets.
 
 - **[Awesome Rust](https://github.com/rust-unofficial/awesome-rust)**  
-  A curated list of Rust code and resources, including libraries, tools, and tutorials. This repository is regularly updated and maintained by the Rust community. :contentReference[oaicite:0]{index=0}
+  A curated list of Rust code and resources, including libraries, tools, and tutorials. This repository is regularly updated and maintained by the Rust community.
 
 - **[Rust Projects to Learn With](https://users.rust-lang.org/t/rust-projects-to-learn-with/86453)**  
-  A discussion thread on the Rust Users Forum where community members share project ideas and resources to help learners practice and improve their Rust skills. :contentReference[oaicite:1]{index=1}
+  A discussion thread on the Rust Users Forum where community members share project ideas and resources to help learners practice and improve their Rust skills.
 
 - **[Top 10 Rusty Repositories for Open Source Contribution](https://hyperswitch.io/blog/top-10-open-source-rust-repositories)**  
-  An article highlighting ten open-source Rust repositories suitable for contributors of all levels, offering opportunities to engage with the Rust ecosystem. :contentReference[oaicite:2]{index=2}
+  An article highlighting ten open-source Rust repositories suitable for contributors of all levels, offering opportunities to engage with the Rust ecosystem. 
   
 ### YouTube Videos/Playlists for Learning Rust
 
