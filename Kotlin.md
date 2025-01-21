@@ -36,13 +36,13 @@ The growing Kotlin community provides ample resources and support. Backed by Jet
 - **[ASMR Kotlin](https://youtu.be/zl2QsDfiWjk?si=21No4f6tIRPFQw0f)** - A video resource showcasing various Kotlin projects.
 
 ## YouTube Videos/Playlist for Learning Kotlin
-- **[Cheezy Code](https://youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G&si=oYoXOk6Z1wgBKXQn)** - A playlist with detailed Kotlin programming tutorials.
+- **[choco Taco](https://youtube.com/playlist?list=PLKmowjJm7JhXZnPbW2aDXvRKlyLXJkeVs&si=7LmDXtGNc-H-X2ix)** - A playlist with detailed Kotlin programming tutorials.
   
-- **[freecodecamp.org](https://youtu.be/EExSSotojVI?si=0jT7OjEa6x4pScDP)** - A comprehensive video that covers Kotlin programming from the ground up.
+- **[freecodecamp.org](https://youtu.be/BpPEoZW5IiY?si=innFMlSc2TgTg8G3)** - A comprehensive video that covers Kotlin programming from the ground up.
   
-- **[Smartherd](https://youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR&si=NHlW0iFKEUiAmXz2)** - Offers a playlist of Kotlin tutorials for beginners.
+- **[Let's get Rusty](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&si=GcsyJhVYiDZueLyT)** - Offers a playlist of Kotlin tutorials for beginners.
   
-- **[Geeky Shows](https://youtu.be/uoP4JKHgzDE?si=urhZj1DTOyCtvnJC)** - A video tutorial on Kotlin programming covering various essential topics.
+- **[Harkirat Singh](https://youtu.be/qP7LzZqGh30?si=WIFj8ZW4FJ43jyIG)** - A video tutorial on Kotlin programming covering various essential topics.
   
 - **[SCALER](https://youtu.be/BxM2DayeOBE?si=cTfURbTOZ7728MgM)** - A helpful video providing insights into Kotlin for aspiring developers.
   
