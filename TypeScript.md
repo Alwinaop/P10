@@ -71,5 +71,4 @@ Mastering TypeScript can also open up more job opportunities, as it is a highly 
 - **[TypeScript Crash Course by Traversy Media](https://www.youtube.com/watch?v=ahCwqrYpIuM)**: An introductory video to TypeScript, covering its features and benefits.
 
 - **[TypeScript Tutorial by Codevolution](https://www.youtube.com/watch?v=WBPrJSw7yQA)**: A step-by-step guide to learning TypeScript from scratch.
-::contentReference[oaicite:0]{index=0}
- 
+
