@@ -52,7 +52,6 @@ Additionally, Rust's rich type system and ownership model guarantee memory safet
 - **[Rust Programming Tutorial](https://www.youtube.com/playlist?list=PLDbRgZ0OOEpUkWDGqp91ODn0dk7LPBAUL)** - A series of tutorials introducing Rust programming, starting with the basics and progressing to more advanced topics.
 
 - **[Rust Programming Tutorials](https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)** - This playlist provides a comprehensive introduction to Rust, covering topics from the basics to more advanced concepts.
-
-- **[Programming in Rust](https://www.youtube.com/playlist?list=PL6oj8ZA5xT3BckwfXZpXFI7FSdeKmIGeB)** - A series that starts from the basics and guides you through various aspects of Rust programming.
+he basics and guides you through various aspects of Rust programming.
 
 - **[Rust Programming Tutorial](https://www.youtube.com/playlist?list=PL5Dc_611BqV10BlttMgtqeUBe8LcgrLtX)** - This playlist delves into Rust's primitive types and functions, providing a deeper understanding of how they work under the hood.
