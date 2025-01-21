@@ -32,8 +32,6 @@ Rust is a systems programming language that offers performance, safety, and conc
 
 - **[Rust Cookbook](https://github.com/rust-lang-nursery/rust-cookbook)** - The Rust Cookbook is a collection of simple examples that demonstrate good practices to accomplish common programming tasks using Rust. It's a great resource for learning by example.
 
-- **[Rustlings](https://github.com/rust-lang/rustlings)** - Rustlings is a collection of small exercises to get you used to reading and writing Rust code. It's an excellent way to practice Rust syntax and concepts interactively.
-  
 ### YouTube Videos/Playlists for Learning Rust
 
 - **[Rust Programming Full Course | Learn Rust in 2024 - YouTube](https://www.youtube.com/watch?v=rQ_J9WH6CGk)** - A comprehensive video course that covers Rust programming fundamentals and advanced topics.
