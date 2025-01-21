@@ -16,8 +16,6 @@ With robust community support, extensive documentation, and learning resources, 
   
 - **[Codecademy C#](https://www.codecademy.com/learn/learn-c-sharp)** - An interactive course that provides coding exercises for hands-on learning of C#.
   
-- **[Coursera C# Programming for Unity Game Development](https://www.coursera.org/learn/c-sharp-programming)** - A specialized course focusing on C# programming within the context of Unity game development.
-  
 - **[GeeksforGeeks C# Tutorial](https://www.geeksforgeeks.org/csharp-programming-language/)** - A detailed tutorial site that covers C# basics and advanced topics, complete with examples.
   
 - **[Microsoft's C# Tutorial](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)** - A guided tour of C#, highlighting the language's features and capabilities.
