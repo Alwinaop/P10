@@ -26,9 +26,13 @@ Rust is a systems programming language that offers performance, safety, and conc
 
 - **[Awesome Rust](https://github.com/rust-unofficial/awesome-rust)** - A curated list of Rust code and resources, including libraries, tools, and tutorials. This repository is regularly updated and maintained by the Rust community.
 
-- **[Rust Projects to Learn With](https://users.rust-lang.org/t/rust-projects-to-learn-with/86453)** - A discussion thread on the Rust Users Forum where community members share project ideas and resources to help learners practice and improve their Rust skills.
+- **[Top 10 Rusty Repositories for Open Source Contribution](https://hyperswitch.io/blog/top-10-open-source-rust-repositories)** - An article highlighting ten open-source Rust repositories suitable for contributors of all levels, offering opportunities to engage with the Rust ecosystem.
 
-- **[Top 10 Rusty Repositories for Open Source Contribution](https://hyperswitch.io/blog/top-10-open-source-rust-repositories)** - An article highlighting ten open-source Rust repositories suitable for contributors of all levels, offering opportunities to engage with the Rust ecosystem. 
+- **[Rustlings](https://github.com/rust-lang/rustlings)** - Rustlings is a collection of small exercises to get you used to reading and writing Rust code. It's an excellent way to practice Rust syntax and concepts interactively.
+
+- **[Rust Cookbook](https://github.com/rust-lang-nursery/rust-cookbook)** - The Rust Cookbook is a collection of simple examples that demonstrate good practices to accomplish common programming tasks using Rust. It's a great resource for learning by example.
+
+- **[Rustlings](https://github.com/rust-lang/rustlings)** - Rustlings is a collection of small exercises to get you used to reading and writing Rust code. It's an excellent way to practice Rust syntax and concepts interactively.
   
 ### YouTube Videos/Playlists for Learning Rust
 
