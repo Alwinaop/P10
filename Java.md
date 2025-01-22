@@ -8,7 +8,7 @@ _A curated list of **100+ free resources** to learn Java, build projects, and jo
 ### _Foundational Resources_
 | Resource | Description | Focus Area |
 |----------|-------------|------------|
-| **[Oracle Java Docs](https://docs.oracle.com/en/java/)** | Official documentation for Java syntax, APIs, and updates. | Core Language |
+| **[Oracle Java Docs](https://docs.oracle.com/en/java/javase/22/)** | Official documentation for Java syntax, APIs, and updates (Java SE 22) :cite[1]. | Core Language |
 | **[Java Tutorial for Beginners](https://www.javatpoint.com/java-tutorial)** | Comprehensive beginner-friendly tutorial. | Core Language |
 | **[freeCodeCamp Java](https://www.freecodecamp.org/learn/java-and-data-structures/)** | Interactive coding challenges and projects. | Problem Solving |
 | **[Head First Java](https://www.oreilly.com/library/view/head-first-java/0596009208/)** | Beginner-friendly book with exercises. | Core Language |
@@ -74,11 +74,11 @@ _A curated list of **100+ free resources** to learn Java, build projects, and jo
 ## 🧩 **Specialized Topics**
 | Topic | Resource | Description |
 |-------|----------|-------------|
-| **Spring Framework** | **[Spring Official Docs](https://spring.io/docs)** | Learn Spring and Spring Boot. |
+| **Spring Framework** | **[Spring Official Docs](https://spring.io/docs)** | Learn Spring and Spring Boot :cite[10]. |
 | **Android Development** | **[Android Developer Guide](https://developer.android.com/guide)** | Build Android apps with Java. |
 | **Data Structures** | **[Java Data Structures](https://www.javatpoint.com/data-structures-in-java)** | Learn data structures in Java. |
-| **Hibernate** | **[Hibernate Tutorial](https://www.tutorialspoint.com/hibernate/index.htm)** | ORM framework for Java. |
-| **JavaFX** | **[JavaFX Tutorial](https://www.tutorialspoint.com/javafx/index.htm)** | Build desktop applications. |
+| **Hibernate** | **[Hibernate Tutorial](https://docs.jboss.org/hibernate/orm/6.4/quickstart/html_single/)** | ORM framework for Java (updated link) :cite[5]. |
+| **JavaFX** | **[JavaFX Tutorial](https://openjfx.io/)** | Build desktop applications (official guide) :cite[6]. |
 
 ---
 
@@ -99,8 +99,8 @@ _A curated list of **100+ free resources** to learn Java, build projects, and jo
 | **Java Basics** | [Cheat Sheet](https://www.javatpoint.com/java-cheat-sheet) |
 | **Spring Boot** | [Spring Boot Cheat Sheet](https://www.baeldung.com/spring-boot-cheat-sheet) |
 | **Java Collections** | [Collections Cheat Sheet](https://www.javatpoint.com/java-collections-cheat-sheet) |
-| **JavaFX** | [JavaFX Cheat Sheet](https://www.javatpoint.com/javafx-cheat-sheet) |
-| **Hibernate** | [Hibernate Cheat Sheet](https://www.baeldung.com/hibernate-cheat-sheet) |
+| **JavaFX** | [JavaFX Cheat Sheet](https://openjfx.io/javadoc/21/) | 
+| **Hibernate** | [Hibernate Cheat Sheet](https://docs.jboss.org/hibernate/orm/6.4/quickstart/html_single/) |
 
 ---
 
@@ -139,9 +139,9 @@ _A curated list of **100+ free resources** to learn Java, build projects, and jo
 
 ## ❓ **FAQ**
 **Q: Which resource should I start with?**  
-A: Beginners: **Java Tutorial for Beginners** or **freeCodeCamp Java**.  
+A: Beginners: **Java Tutorial for Beginners** or **freeCodeCamp Java** :cite[4]:cite[6].  
 **Q: How to practice Java daily?**  
-A: Try **Codewars** or **Exercism**.  
+A: Try **Codewars** or **Exercism** :cite[10].  
 **Q: How to contribute to open-source?**  
 A: Check [Good First Issues](https://goodfirstissue.dev/language/java).
 
