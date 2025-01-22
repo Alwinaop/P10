@@ -124,4 +124,4 @@ A: Start with [Starter Bugs](https://bugs.swift.org/) & join [Swift Mentorship](
 
 ---
 
-Found a broken link? [Report here](https://github.com/SwiftLang/swift/issues)
+Found a broken link? [Report here](https://github.com/Alexcj10/P10/issues)
