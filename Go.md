@@ -124,4 +124,4 @@ A: Start with [Good First Issues](https://github.com/golang/go/contribute) in co
 
 ---
 
-Found a broken link? [Report here](https://github.com/golang/go/issues)
+Found a broken link? [Report here](https://github.com/Alexcj10/P10/issues)
