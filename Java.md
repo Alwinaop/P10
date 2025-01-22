@@ -1,6 +1,6 @@
 # ☕ Ultimate Java Learning & Project Guide
 
-_A curated list of **100+ free resources** to learn Java, build projects, and join the community._
+_A curated list of **100+ free resources** to learn Java, build projects, and join the community. Updated for 2025!_
 
 ---
 
@@ -8,88 +8,99 @@ _A curated list of **100+ free resources** to learn Java, build projects, and jo
 ### _Foundational Resources_
 | Resource | Description | Focus Area |
 |----------|-------------|------------|
-| **[Java Official Docs](https://docs.oracle.com/en/java/)** | Oracle's official Java documentation for syntax, APIs, and updates. | Core Language |
-| **[Head First Java](https://www.oreilly.com/library/view/head-first-java/0596009208/)** | Beginner-friendly book with interactive exercises (free PDF available). | OOP Basics |
-| **[Java for Everybody](https://www.coursera.org/specializations/java-programming)** | Coursera specialization by Duke University. | Basics to Advanced |
-| **[Google’s Java Style Guide](https://google.github.io/styleguide/javaguide.html)** | Best practices for writing clean Java code. | Code Quality |
-| **[MOOC.fi Java Programming](https://java-programming.mooc.fi/)** | Free University of Helsinki course with graded exercises. | Problem Solving |
+| **[Oracle Java Docs](https://docs.oracle.com/en/java/)** | Official documentation for Java syntax, APIs, and updates. | Core Language |
+| **[Java Tutorial for Beginners](https://www.javatpoint.com/java-tutorial)** | Comprehensive beginner-friendly tutorial. | Core Language |
+| **[freeCodeCamp Java](https://www.freecodecamp.org/learn/java-and-data-structures/)** | Interactive coding challenges and projects. | Problem Solving |
+| **[Head First Java](https://www.oreilly.com/library/view/head-first-java/0596009208/)** | Beginner-friendly book with exercises. | Core Language |
+| **[Google’s Java Style Guide](https://google.github.io/styleguide/javaguide.html)** | Best practices for writing clean Java code. | Best Practices |
 
 ---
 
 ## 🌐 **Interactive Learning**
 | Platform | Description | Features |
 |----------|-------------|----------|
-| **[Codecademy Java](https://www.codecademy.com/learn/learn-java)** | Interactive Java course in-browser. | Quizzes, Projects |
-| **[Hyperskill (JetBrains)](https://hyperskill.org/tracks/17)** | Project-based learning with IntelliJ integration. | Real-World Apps |
-| **[Codio Java Basics](https://www.codio.com/courses/java)** | Hands-on coding exercises with instant feedback. | Syntax Practice |
-| **[SoloLearn Java](https://www.sololearn.com/learn/Java)** | Mobile-friendly Java lessons. | Bite-Sized Learning |
-| **[CodinGame Java](https://www.codingame.com/)** | Learn Java through game-based challenges. | Gamified Coding |
+| **[Codecademy](https://www.codecademy.com/learn/learn-java)** | Learn Java interactively in-browser. | Quizzes, Projects |
+| **[freeCodeCamp](https://www.freecodecamp.org/)** | Full Java curriculum with certifications. | Hands-on Projects |
+| **[SoloLearn](https://www.sololearn.com/learning/1068)** | Mobile-friendly Java course. | Gamified Learning |
+| **[Exercism](https://exercism.org/tracks/java)** | Practice Java with mentor-reviewed exercises. | Code Challenges |
+| **[Hyperskill](https://hyperskill.org/tracks/1)** | Project-based Java learning. | Real-world Projects |
 
 ---
 
 ## 📚 **Books & E-Books**
 | Book | Description | Free Access |
 |------|-------------|-------------|
-| **[Java: A Beginner’s Guide](https://www.mheducation.com/highered/product/java-beginner-s-guide-schildt/M9781260440222.html)** | Free chapters + code examples. | OOP & Syntax |
-| **[Think Java](https://greenteapress.com/wp/think-java/)** | Computational thinking with Java. | PDF Download |
-| **[Java Design Patterns](https://java-design-patterns.com/)** | Free online guide to GOF patterns. | Architecture |
-| **[Java Persistence with Hibernate](https://www.manning.com/books/java-persistence-with-hibernate)** | Free sample chapters. | Database Integration |
-| **[Effective Java](https://joshbloch.com/effective-java/)** | Best practices by Joshua Bloch (3rd ed. preview). | Advanced Concepts |
+| **[Head First Java](https://www.oreilly.com/library/view/head-first-java/0596009208/)** | Beginner-friendly book with exercises. | Paid/Free Trials |
+| **[Think Java](https://greenteapress.com/wp/think-java/)** | Free book for beginners. | Web/PDF |
+| **[Java Programming for Beginners](https://www.programiz.com/java-programming)** | Beginner-friendly guide. | Web |
+| **[Effective Java](https://www.oreilly.com/library/view/effective-java/9780134686097/)** | Best practices for Java developers. | Paid/Free Trials |
+| **[Java Basics](https://javabasics.org/)** | Short, digestible chapters for quick learning. | Quick Reference |
 
 ---
 
 ## 🎥 **Video Courses**
 | Course | Creator | Highlights |
 |--------|---------|------------|
-| **[Java Full Course](https://youtu.be/eIrMbAQSU34)** | Programming with Mosh | 12-hour masterclass (basics to Spring). |
-| **[Java for Android](https://youtu.be/fis26HvvDII)** | freeCodeCamp | Build Android apps with Java. |
-| **[Spring Framework 6](https://youtu.be/9SGDpanrc8U)** | Amigoscode | REST APIs & Spring Boot. | Backend Dev |
-| **[Java Multithreading](https://youtu.be/r_MbozD32eo)** | Jakob Jenkov | Concurrency deep dive. | Advanced Topics |
-| **[Java Interview Prep](https://youtu.be/5j0jA_4JXYQ)** | Kunal Kushwaha | LeetCode solutions explained. | Coding Interviews |
+| **[Java Full Course](https://youtu.be/xk4_1vDrzzo)** | freeCodeCamp | 12-hour beginner to pro journey. |
+| **[Java Tutorial for Beginners](https://youtu.be/eIrMbAQSU34)** | Programming with Mosh | 1-hour crash course. |
+| **[Java Programming](https://youtube.com/playlist?list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)** | Derek Banas | 100+ videos (OOP, Data Structures). |
+| **[Java for Beginners](https://youtube.com/playlist?list=PL_c9BZzLwBRKIMP_xNTJxi9lIgQhE47rR)** | Alex Lee | Beginner-friendly tutorials. |
+| **[Java Spring Boot](https://youtu.be/vtPkZShrvXQ)** | Amigoscode | Full course on Spring Boot. |
+
+---
+
+## ▶️ **YouTube Playlists**
+| Playlist | Creator | Content |
+|----------|---------|---------|
+| **[Java Tutorials](https://youtube.com/playlist?list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)** | Derek Banas | 100+ videos (OOP, Data Structures). |
+| **[Java Full Course](https://youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB)** | freeCodeCamp | 12-hour beginner to pro journey. |
+| **[Java Projects](https://youtube.com/playlist?list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ)** | Tech With Tim | 20+ practical project walkthroughs. |
+| **[Java Spring Boot](https://youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)** | Java Brains | Full course on Spring Boot. |
+| **[Java Algorithms](https://youtube.com/playlist?list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC)** | freeCodeCamp | Algorithms and data structures. |
 
 ---
 
 ## 🛠️ **Project Ideas**
 | Project | Difficulty | Resources |
 |---------|------------|-----------|
-| **Banking System CLI** | Beginner | [Tutorial](https://www.javatpoint.com/java-banking-application-project) |
-| **REST API with Spring Boot** | Intermediate | [Guide](https://spring.io/guides/gs/rest-service/) |
-| **Android To-Do App** | Intermediate | [Example](https://developer.android.com/codelabs/build-your-first-android-app) |
-| **E-commerce Backend** | Advanced | [Tutorial](https://www.baeldung.com/spring-boot-react-ecommerce) |
-| **Blockchain Simulator** | Advanced | [GitHub Example](https://github.com/BlockchainJava/Blockchain-Java) |
+| **To-Do List App** | Beginner | [Tutorial](https://www.javatpoint.com/java-swing) |
+| **Bank Management System** | Intermediate | [Guide](https://www.geeksforgeeks.org/java-program-to-create-a-bank-account/) |
+| **Chat Application** | Advanced | [Socket Programming](https://www.geeksforgeeks.org/socket-programming-in-java/) |
+| **E-Commerce Website** | Advanced | [Spring Boot Tutorial](https://www.youtube.com/watch?v=vtPkZShrvXQ) |
+| **Game Development** | Intermediate | [JavaFX Tutorial](https://www.youtube.com/watch?v=FLkOX4Eez6o) |
 
 ---
 
 ## 🧩 **Specialized Topics**
 | Topic | Resource | Description |
 |-------|----------|-------------|
-| **Android Dev** | **[Android Developer Docs](https://developer.android.com/guide)** | Official Android Java guides. |
-| **Spring Framework** | **[Spring Boot Tutorials](https://www.baeldung.com/spring-boot)** | Enterprise app development. |
-| **JavaFX GUI** | **[JavaFX Documentation](https://openjfx.io/)** | Desktop app development. |
-| **Microservices** | **[Micronaut Framework](https://micronaut.io/)** | Cloud-native Java apps. |
-| **Game Dev** | **[LibGDX Tutorials](https://libgdx.com/wiki/start)** | Cross-platform games with Java. |
+| **Spring Framework** | **[Spring Official Docs](https://spring.io/docs)** | Learn Spring and Spring Boot. |
+| **Android Development** | **[Android Developer Guide](https://developer.android.com/guide)** | Build Android apps with Java. |
+| **Data Structures** | **[Java Data Structures](https://www.javatpoint.com/data-structures-in-java)** | Learn data structures in Java. |
+| **Hibernate** | **[Hibernate Tutorial](https://www.tutorialspoint.com/hibernate/index.htm)** | ORM framework for Java. |
+| **JavaFX** | **[JavaFX Tutorial](https://www.tutorialspoint.com/javafx/index.htm)** | Build desktop applications. |
 
 ---
 
 ## 🎮 **Practice Platforms**
 | Platform | Focus | Link |
 |----------|-------|------|
-| **Codewars** | Java Challenges | [codewars.com](https://www.codewars.com/) |
+| **Codewars** | Coding Challenges | [codewars.com](https://www.codewars.com/) |
 | **LeetCode** | Interview Prep | [leetcode.com](https://leetcode.com/) |
-| **HackerRank Java** | Skill Tracks | [hackerrank.com](https://www.hackerrank.com/domains/java) |
-| **CodeSignal** | Coding Tests | [codesignal.com](https://codesignal.com/) |
-| **Exercism Java** | Mentor Feedback | [exercism.org/tracks/java](https://exercism.org/tracks/java) |
+| **HackerRank** | Skill Tracks | [hackerrank.com/domains/tutorials/10-days-of-java](https://www.hackerrank.com/domains/tutorials/10-days-of-java) |
+| **Exercism** | Code Challenges | [exercism.org/tracks/java](https://exercism.org/tracks/java) |
+| **CodeChef** | Competitive Programming | [codechef.com](https://www.codechef.com/) |
 
 ---
 
 ## 💡 **Cheat Sheets**
 | Topic | Resource |
 |-------|----------|
-| **Java Syntax** | [Java Cheat Sheet](https://introcs.cs.princeton.edu/java/11cheatsheet/) |
-| **Spring Annotations** | [Spring Cheat Sheet](https://www.jrebel.com/blog/spring-annotations-cheat-sheet) |
-| **JUnit 5** | [Testing Guide](https://junit.org/junit5/docs/current/user-guide/) |
-| **Maven** | [Maven Commands](https://devhints.io/maven) |
-| **Java Streams** | [Streams API Guide](https://www.baeldung.com/java-8-streams) |
+| **Java Basics** | [Cheat Sheet](https://www.javatpoint.com/java-cheat-sheet) |
+| **Spring Boot** | [Spring Boot Cheat Sheet](https://www.baeldung.com/spring-boot-cheat-sheet) |
+| **Java Collections** | [Collections Cheat Sheet](https://www.javatpoint.com/java-collections-cheat-sheet) |
+| **JavaFX** | [JavaFX Cheat Sheet](https://www.javatpoint.com/javafx-cheat-sheet) |
+| **Hibernate** | [Hibernate Cheat Sheet](https://www.baeldung.com/hibernate-cheat-sheet) |
 
 ---
 
@@ -98,9 +109,9 @@ _A curated list of **100+ free resources** to learn Java, build projects, and jo
 |----------|-------------|
 | **[r/learnjava](https://www.reddit.com/r/learnjava/)** | Reddit’s Java Q&A hub. |
 | **[Java Discord](https://discord.gg/java)** | Live chat for learners. |
-| **[Java Weekly](https://www.baeldung.com/java-weekly)** | Newsletter with curated updates. |
-| **[InfoQ Java](https://www.infoq.com/java/)** | Trends & technical articles. |
-| **[Java Community Process](https://jcp.org/en/home/index)** | Official Java updates. |
+| **[Java Weekly](https://www.baeldung.com/java-web-weekly)** | Newsletter with curated articles. |
+| **[Java Podcast](https://inside.java/podcast/)** | Interviews & tips from Java experts. |
+| **[Oracle Java News](https://www.oracle.com/java/)** | Official updates & events. |
 
 ---
 
@@ -109,40 +120,40 @@ _A curated list of **100+ free resources** to learn Java, build projects, and jo
 |------|----------|------|
 | **IntelliJ IDEA** | IDE | [jetbrains.com/idea](https://www.jetbrains.com/idea/) |
 | **Eclipse** | IDE | [eclipse.org](https://www.eclipse.org/) |
-| **Maven** | Build Tool | [maven.apache.org](https://maven.apache.org/) |
-| **Gradle** | Build Automation | [gradle.org](https://gradle.org/) |
-| **Heroku Java** | Deployment | [heroku.com/java](https://www.heroku.com/java) |
+| **NetBeans** | IDE | [netbeans.apache.org](https://netbeans.apache.org/) |
+| **Heroku** | Deploy Apps | [heroku.com](https://www.heroku.com/) |
+| **GitHub Student Pack** | Free Tools | [education.github.com](https://education.github.com/pack) |
 
 ---
 
 ## 📂 **GitHub Repos**
 | Repo | Description | Stars |
 |------|-------------|-------|
-| **[Awesome Java](https://github.com/akullpp/awesome-java)** | 40k+ stars! Libraries & frameworks. | ⭐40k |
-| **[Java Design Patterns](https://github.com/iluwatar/java-design-patterns)** | 85k+ stars! GOF patterns. | ⭐85k |
-| **[Spring PetClinic](https://github.com/spring-projects/spring-petclinic)** | Sample Spring Boot app. | ⭐7k |
-| **[Java Algorithms](https://github.com/TheAlgorithms/Java)** | 55k+ stars! Algorithm implementations. | ⭐55k |
-| **[JHipster](https://github.com/jhipster/generator-jhipster)** | Enterprise app generator. | ⭐21k |
+| **[Awesome Java](https://github.com/akullpp/awesome-java)** | 30k+ stars! Tools & frameworks. | ⭐30k |
+| **[Java Design Patterns](https://github.com/iluwatar/java-design-patterns)** | Design patterns in Java. | ⭐75k |
+| **[Java Algorithms](https://github.com/TheAlgorithms/Java)** | Algorithms and data structures. | ⭐45k |
+| **[Spring Boot Examples](https://github.com/spring-projects/spring-boot)** | Official Spring Boot examples. | ⭐60k |
+| **[JavaFX Games](https://github.com/AlmasB/FXGL)** | Game development with JavaFX. | ⭐5k |
 
 ---
 
 ## ❓ **FAQ**
-**Q: Which IDE is best for Java?**  
-A: **IntelliJ IDEA** (Community Edition is free) or **VS Code** with extensions.  
-**Q: How to master OOP in Java?**  
-A: Practice with **[MOOC.fi](https://java-programming.mooc.fi/)** and **[Head First Java](https://www.oreilly.com/library/view/head-first-java/0596009208/)**.  
-**Q: How to contribute to Java open-source?**  
-A: Start with [OpenJDK](https://openjdk.java.net/contribute/) or [Apache Projects](https://www.apache.org/foundation/getinvolved.html).
+**Q: Which resource should I start with?**  
+A: Beginners: **Java Tutorial for Beginners** or **freeCodeCamp Java**.  
+**Q: How to practice Java daily?**  
+A: Try **Codewars** or **Exercism**.  
+**Q: How to contribute to open-source?**  
+A: Check [Good First Issues](https://goodfirstissue.dev/language/java).
 
 ---
 
 ## 🤝 **Contributing**  
-1. Fork **[this repo](https://github.com/Alexcj10/Programming-17)**.  
-2. Add **new Java resources** or fix broken links.  
+1. Fork this repo.  
+2. Add **new resources** or fix broken links.  
 3. Submit a PR!  
 
 **⭐ Star this repo** to support the community!  
 
 ---
 
-Found a broken link? [Report it here!](https://github.com/Alexcj10/Programming-17/issues)_
+Found a broken link? [Report it here!](https://github.com/Alexcj10/Programming-17/issues)  
