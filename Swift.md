@@ -10,7 +10,7 @@ _A curated list of **80+ free resources** to master Swift development for iOS, m
 |----------|-------------|------------|
 | **[Swift Official Docs](https://www.swift.org/documentation/)** | Apple's comprehensive language reference | Core Syntax |
 | **[Swift Playgrounds](https://www.apple.com/swift/playgrounds/)** | Interactive coding on iPad/Mac | Beginner Friendly |
-| **[Stanford CS193p](https://cs193p.sites.stanford.edu/)** | Best iOS dev course with SwiftUI :cite[5] | App Development |
+| **[Stanford CS193p](https://cs193p.sites.stanford.edu/)** | Best iOS dev course with SwiftUI | App Development |
 | **[The Swift Programming Language](https://docs.swift.org/swift-book/)** | Free Apple eBook (updated for Swift 6) | Language Mastery |
 | **[Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)** | Industry-standard conventions | Best Practices |
 
@@ -40,7 +40,7 @@ _A curated list of **80+ free resources** to master Swift development for iOS, m
 | Course | Platform | Highlights |
 |--------|----------|------------|
 | **[SwiftUI Masterclass](https://youtu.be/F2ojC6TNwws)** | freeCodeCamp | Build 15 apps (8hr) |
-| **[iOS 18 Development](https://cs193p.sites.stanford.edu/)** | Stanford | 2025 Curriculum :cite[5] |
+| **[iOS 18 Development](https://cs193p.sites.stanford.edu/)** | Stanford | 2025 Curriculum |
 | **[Server-Side Swift](https://vapor.university/)** | Vapor School | Full-stack Projects |
 | **[Swift Algorithms](https://www.udemy.com/course/swift-algorithms/)** | Udemy | Data Structures & Optimization |
 
@@ -49,9 +49,9 @@ _A curated list of **80+ free resources** to master Swift development for iOS, m
 ## 🛠️ **Project Ideas**
 | Project | Stack | Resources |
 |---------|-------|-----------|
-| **Markdown Editor** | SwiftUI + MarkdownKit | [Parser Guide]:cite[3]:cite[8] |
+| **Markdown Editor** | SwiftUI + MarkdownKit | [Parser Guide] |
 | **iOS AR Navigation** | ARKit + CoreLocation | Apple Doc Samples |
-| **REST API Server** | Vapor + PostgreSQL | [Vapor Book]:cite[7] |
+| **REST API Server** | Vapor + PostgreSQL | [Vapor Book] |
 | **ML Image Classifier** | CoreML + Vision | WWDC Tutorials |
 
 ---
@@ -59,9 +59,9 @@ _A curated list of **80+ free resources** to master Swift development for iOS, m
 ## 🔍 **Specialized Topics**
 | Area | Tools | Learning Path |
 |------|-------|---------------|
-| **SwiftUI** | Canvas Previews | [Stanford CS193p]:cite[5] |
+| **SwiftUI** | Canvas Previews | [Stanford CS193p] |
 | **Combine** | Reactive Streams | Apple's Data Flow Guide |
-| **DocC** | Documentation | [Xcode Markdown]:cite[10] |
+| **DocC** | Documentation | [Xcode Markdown] |
 | **Concurrency** | async/await | WWDC 2025 Videos |
 
 ---
@@ -87,10 +87,10 @@ _A curated list of **80+ free resources** to master Swift development for iOS, m
 ## ⚙️ **Essential Tools**
 | Tool | Purpose | Link |
 |------|---------|------|
-| Xcode 18 | IDE | [Apple Developer]:cite[4] |
+| Xcode 18 | IDE | [Apple Developer] |
 | SwiftPM | Package Manager | Built-in CLI |
 | SwiftLint | Code Style | GitHub Action Integration |
-| Vapor Toolbox | Server CLI | [Vapor Docs]:cite[7] |
+| Vapor Toolbox | Server CLI | [Vapor Docs] |
 
 ---
 
@@ -99,7 +99,7 @@ _A curated list of **80+ free resources** to master Swift development for iOS, m
 |------------|-------|-------------|
 | **[Awesome Swift](https://github.com/matteocrippa/awesome-swift)** | ⭐25k | 400+ Libraries & Tools |
 | **[Swift Algorithms](https://github.com/apple/swift-algorithms)** | ⭐5k | Official Apple Kit |
-| **[Swift Markdown](https://github.com/swiftlang/swift-markdown)** | ⭐1.2k | DocC Parser :cite[8] |
+| **[Swift Markdown](https://github.com/swiftlang/swift-markdown)** | ⭐1.2k | DocC Parser  |
 
 ---
 
@@ -108,7 +108,7 @@ _A curated list of **80+ free resources** to master Swift development for iOS, m
 A: Swift dominates Apple ecosystems, while Kotlin Multiplatform better for Android integration.
 
 **Q: How to contribute to Swift?**  
-A: Start with [Swift.org Evolution](https://github.com/apple/swift-evolution) or [CN Docs]:cite[2].
+A: Start with [Swift.org Evolution](https://github.com/apple/swift-evolution) 
 
 **Q: Best free ARKit course?**  
 A: Apple's [RealityKit Tutorials](https://developer.apple.com/augmented-reality/) with SwiftUI.
@@ -116,8 +116,8 @@ A: Apple's [RealityKit Tutorials](https://developer.apple.com/augmented-reality/
 ---
 
 ## 🚨 **Pro Tips**
-1. Use `#Preview` macros in Xcode 18 for instant UI testing :cite[4]
-2. Explore Swift Distributed Actors for server clusters :cite[7]
-3. Master DocC for API documentation with live examples :cite[10]
+1. Use `#Preview` macros in Xcode 18 for instant UI testing 
+2. Explore Swift Distributed Actors for server clusters 
+3. Master DocC for API documentation with live examples 
 
 Found issues? [Contribute fixes](https://github.com/swiftlang/swift-markdown) to Swift Markdown parser!
