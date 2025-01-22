@@ -1,6 +1,6 @@
-# 🚀 Ultimate C++ Learning & Project Guide
+# 🖥️ Ultimate C++ Learning & Project Guide
 
-_A curated list of **100+ free resources** to master C++, build projects, and join the community._
+_A curated list of **100+ free resources** to learn C++, build projects, and join the community. Updated for 2025!_
 
 ---
 
@@ -8,141 +8,152 @@ _A curated list of **100+ free resources** to master C++, build projects, and jo
 ### _Foundational Resources_
 | Resource | Description | Focus Area |
 |----------|-------------|------------|
-| **[C++ Official Docs](https://isocpp.org/)** | ISO C++ standards, tutorials, and best practices. | Core Language |
-| **[LearnCpp.com](https://www.learncpp.com/)** | Free beginner-to-advanced tutorials with examples. | Syntax & OOP |
-| **[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)** | Best practices curated by Bjarne Stroustrup. | Modern C++ |
-| **[CppReference](https://en.cppreference.com/w/)** | Ultimate reference for STL, keywords, and functions. | Library Docs |
-| **[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)** | Industry-standard code formatting rules. | Best Practices |
+| **[C++ Official Docs](https://en.cppreference.com/)** | Comprehensive reference for C++ syntax, libraries, and updates. | Core Language |
+| **[LearnCpp](https://www.learncpp.com/)** | Beginner-friendly tutorials with examples. | Core Language |
+| **[freeCodeCamp C++](https://www.freecodecamp.org/learn/c-plus-plus/)** | Interactive coding challenges and projects. | Problem Solving |
+| **[C++ Primer](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)** | Classic book for learning C++ (free PDFs available online). | Core Language |
+| **[Google’s C++ Style Guide](https://google.github.io/styleguide/cppguide.html)** | Best practices for writing clean C++ code. | Best Practices |
 
 ---
 
 ## 🌐 **Interactive Learning**
 | Platform | Description | Features |
 |----------|-------------|----------|
-| **[Codecademy C++](https://www.codecademy.com/learn/learn-c-plus-plus)** | Hands-on coding in-browser (free tier available). | Quizzes, Projects |
-| **[Exercism C++](https://exercism.org/tracks/cpp)** | Mentor-reviewed exercises with feedback. | Code Challenges |
-| **[SoloLearn C++](https://www.sololearn.com/learn/courses/c-plus-plus)** | Mobile-friendly lessons and community Q&A. | Bite-Sized Learning |
-| **[HackerRank C++](https://www.hackerrank.com/domains/cpp)** | Skill tracks for strings, STL, and OOP. | Practice Problems |
-| **[Codingame](https://www.codingame.com/)** | Gamified coding challenges in C++. | Game-Based Learning |
+| **[Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus)** | Learn C++ interactively in-browser. | Quizzes, Projects |
+| **[SoloLearn](https://www.sololearn.com/learning/1051)** | Mobile-friendly C++ course. | Gamified Learning |
+| **[Exercism](https://exercism.org/tracks/cpp)** | Practice C++ with mentor-reviewed exercises. | Code Challenges |
+| **[HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-cpp)** | Skill tracks for C++ beginners. | Hands-on Challenges |
+| **[LeetCode](https://leetcode.com/problemset/all/)** | Practice C++ for coding interviews. | Problem Solving |
 
 ---
 
 ## 📚 **Books & E-Books**
 | Book | Description | Free Access |
 |------|-------------|-------------|
-| **[The C++ Programming Language](https://www.stroustrup.com/4th.html)** | Bjarne Stroustrup’s definitive guide (4th ed. samples). | Core Concepts |
-| **[Effective C++](https://ptgmedia.pearsoncmg.com/images/9780321334879/samplepages/0321334876.pdf)** | Scott Meyers’ 55 best practices (free sample). | Best Practices |
-| **[C++ Primer (5th Ed.)](https://github.com/Mooophy/Cpp-Primer)** | GitHub repo with exercises and solutions. | Comprehensive Guide |
-| **[Open C++ Books](https://github.com/fffaraz/awesome-cpp#books)** | Curated list of free C++ books. | Multiple Topics |
-| **[C++ Crash Course](https://lospi.net/c/c++/programming/developing/software/2019/07/28/cpp-crash-course.html)** | Quick syntax reference for experienced coders. | Quickstart |
+| **[C++ Primer](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)** | Classic book for learning C++ (free PDFs available online). | Paid/Free PDFs |
+| **[Effective C++](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876)** | Best practices for C++ developers. | Paid/Free PDFs |
+| **[The C++ Programming Language](https://www.stroustrup.com/4th.html)** | By Bjarne Stroustrup, the creator of C++. | Paid/Free PDFs |
+| **[C++ Basics](https://www.programiz.com/cpp-programming)** | Beginner-friendly guide. | Web |
+| **[Think C++](https://greenteapress.com/wp/think-cpp/)** | Free book for beginners. | Web/PDF |
 
 ---
 
 ## 🎥 **Video Courses**
 | Course | Creator | Highlights |
 |--------|---------|------------|
-| **[C++ Full Course](https://youtu.be/vLnPwxZdW4Y)** | FreeCodeCamp | 10-hour masterclass (basics to OOP). |
-| **[Unreal Engine C++](https://youtu.be/2Uqy8aeQTlM)** | Virtus Learning Hub | Game development with UE5. |
-| **[C++ for Competitive Programming](https://youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)** | mycodeschool | Algorithms and STL deep dive. |
-| **[Modern C++](https://youtu.be/ZaRosm8wvyo)** | The Cherno | RAII, smart pointers, and concurrency. |
-| **[Low-Level Programming](https://youtu.be/H4q1cBf8rIg)** | Code Blacksmith | Memory management and assembly. |
+| **[C++ Full Course](https://youtu.be/vLnPwxZdW4Y)** | freeCodeCamp | 4-hour beginner to pro journey. |
+| **[C++ Tutorial for Beginners](https://youtu.be/vLnPwxZdW4Y)** | Programming with Mosh | 1-hour crash course. |
+| **[C++ Programming](https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)** | The Cherno | 100+ videos (OOP, Game Dev). |
+| **[C++ for Beginners](https://youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG)** | Alex Lee | Beginner-friendly tutorials. |
+| **[C++ STL](https://youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C)** | CodeWithHarry | Standard Template Library tutorials. |
+
+---
+
+## ▶️ **YouTube Playlists**
+| Playlist | Creator | Content |
+|----------|---------|---------|
+| **[C++ Tutorials](https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)** | The Cherno | 100+ videos (OOP, Game Dev). |
+| **[C++ Full Course](https://youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB)** | freeCodeCamp | 4-hour beginner to pro journey. |
+| **[C++ Projects](https://youtube.com/playlist?list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ)** | Tech With Tim | 20+ practical project walkthroughs. |
+| **[C++ STL](https://youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C)** | CodeWithHarry | Standard Template Library tutorials. |
+| **[C++ Algorithms](https://youtube.com/playlist?list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC)** | freeCodeCamp | Algorithms and data structures. |
 
 ---
 
 ## 🛠️ **Project Ideas**
 | Project | Difficulty | Resources |
 |---------|------------|-----------|
-| **CLI Calculator** | Beginner | [Tutorial](https://www.geeksforgeeks.org/calculator-in-cpp/) |
-| **2D Game (SFML)** | Intermediate | [Guide](https://www.sfml-dev.org/tutorials/2.5/) |
-| **Database System** | Advanced | [Example](https://github.com/cstack/db_tutorial) |
-| **Ray Tracer** | Advanced | [Tutorial](https://raytracing.github.io/books/RayTracingInOneWeekend.html) |
-| **OS Kernel** | Expert | [Guide](https://wiki.osdev.org/Bare_Bones) |
+| **To-Do List App** | Beginner | [Tutorial](https://www.geeksforgeeks.org/cpp-program-to-create-a-to-do-list/) |
+| **Bank Management System** | Intermediate | [Guide](https://www.geeksforgeeks.org/cpp-program-to-create-a-bank-account/) |
+| **Chat Application** | Advanced | [Socket Programming](https://www.geeksforgeeks.org/socket-programming-in-cpp/) |
+| **Game Development** | Intermediate | [SFML Tutorial](https://www.sfml-dev.org/tutorials/2.5/) |
+| **Compiler Design** | Advanced | [Guide](https://www.geeksforgeeks.org/introduction-to-compiler-design/) |
 
 ---
 
 ## 🧩 **Specialized Topics**
 | Topic | Resource | Description |
 |-------|----------|-------------|
-| **Game Dev** | **[Unreal Engine Docs](https://docs.unrealengine.com/5.0/en-US/)** | C++ for AAA game development. |
-| **Embedded Systems** | **[Embedded C++](https://www.embedded.com/design/programming-languages-and-tools/4442777/Embedded-C---)** | Resource for microcontrollers. |
-| **High-Frequency Trading** | **[QuantStart](https://www.quantstart.com/articles/)** | C++ in finance systems. |
-| **Graphics (OpenGL)** | **[LearnOpenGL](https://learnopengl.com/)** | 3D rendering tutorials. |
-| **Robotics (ROS)](http://wiki.ros.org/cpp)** | ROS C++ tutorials for robotics. |
+| **Game Development** | **[SFML Tutorials](https://www.sfml-dev.org/tutorials/2.5/)** | Build games with SFML. |
+| **Competitive Programming** | **[Codeforces](https://codeforces.com/)** | Practice C++ for competitive coding. |
+| **Data Structures** | **[GeeksforGeeks](https://www.geeksforgeeks.org/data-structures-in-cpp/)** | Learn data structures in C++. |
+| **STL (Standard Template Library)** | **[C++ STL Guide](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)** | Master the STL. |
+| **Embedded Systems** | **[Arduino C++](https://www.arduino.cc/)** | Build embedded systems with C++. |
 
 ---
 
 ## 🎮 **Practice Platforms**
 | Platform | Focus | Link |
 |----------|-------|------|
-| **LeetCode C++** | Interview Prep | [leetcode.com](https://leetcode.com/) |
-| **Codeforces** | Competitive Coding | [codeforces.com](https://codeforces.com/) |
-| **Codewars** | Challenges | [codewars.com](https://www.codewars.com/) |
-| **Project Euler** | Math Problems | [projecteuler.net](https://projecteuler.net/) |
-| **CodinGame** | Game-Based | [codingame.com](https://www.codingame.com/) |
+| **Codewars** | Coding Challenges | [codewars.com](https://www.codewars.com/) |
+| **LeetCode** | Interview Prep | [leetcode.com](https://leetcode.com/) |
+| **HackerRank** | Skill Tracks | [hackerrank.com/domains/tutorials/10-days-of-cpp](https://www.hackerrank.com/domains/tutorials/10-days-of-cpp) |
+| **Exercism** | Code Challenges | [exercism.org/tracks/cpp](https://exercism.org/tracks/cpp) |
+| **CodeChef** | Competitive Programming | [codechef.com](https://www.codechef.com/) |
 
 ---
 
 ## 💡 **Cheat Sheets**
 | Topic | Resource |
 |-------|----------|
-| **C++ Syntax** | [Quick Reference](https://github.com/jakublevy/chip8-cpp/blob/master/docs/Cpp%20Cheat%20Sheet.md) |
-| **STL Containers** | [STL Cheat Sheet](https://github.com/gibsjose/cpp-cheat-sheet) |
-| **C++17/20 Features** | [Modern C++](https://www.bfilipek.com/2021/03/cpp17cheatsheet.html) |
-| **Pointers & Memory** | [Memory Management](https://www.codementor.io/@paulonteri/c-memory-management-cheat-sheet-1lwvaljbv6) |
-| **Multithreading** | [Concurrency Guide](https://www.modernescpp.com/index.php/c-concurrency-cheat-sheet) |
+| **C++ Basics** | [Cheat Sheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet/) |
+| **STL** | [STL Cheat Sheet](https://www.hackerearth.com/practice/notes/standard-template-library/) |
+| **Data Structures** | [Data Structures Cheat Sheet](https://www.geeksforgeeks.org/data-structures-in-cpp/) |
+| **Game Development** | [SFML Cheat Sheet](https://www.sfml-dev.org/tutorials/2.5/) |
+| **Competitive Programming** | [CP Cheat Sheet](https://www.geeksforgeeks.org/cpp-cheat-sheet-for-competitive-programming/) |
 
 ---
 
 ## 🌟 **Community & News**
 | Resource | Description |
 |----------|-------------|
-| **[r/cpp](https://www.reddit.com/r/cpp/)** | Reddit’s C++ news & discussions. |
-| **[C++ Slack](https://cppalliance.org/slack/)** | Live chat with experts. |
-| **[ISO C++ Blog](https://isocpp.org/blog)** | Official updates and proposals. |
-| **[Meeting C++](https://www.meetingcpp.com/)** | Conferences and articles. |
-| **[Stack Overflow C++](https://stackoverflow.com/questions/tagged/c%2b%2b)** | Q&A for troubleshooting. |
+| **[r/cpp](https://www.reddit.com/r/cpp/)** | Reddit’s C++ Q&A hub. |
+| **[C++ Discord](https://discord.gg/cpp)** | Live chat for learners. |
+| **[C++ Weekly](https://www.youtube.com/c/JasonTurner/playlists)** | Weekly C++ tips and tricks. |
+| **[C++ News](https://isocpp.org/)** | Official updates & events. |
+| **[Stack Overflow C++](https://stackoverflow.com/questions/tagged/c%2b%2b)** | Q&A for C++ developers. |
 
 ---
 
 ## 🔧 **Tools & Hosting**
 | Tool | Use Case | Link |
 |------|----------|------|
-| **Visual Studio** | IDE | [visualstudio.com](https://visualstudio.microsoft.com/) |
-| **CLion** | Cross-Platform IDE | [jetbrains.com/clion](https://www.jetbrains.com/clion/) |
-| **Compiler Explorer** | Online Compiler | [godbolt.org](https://godbolt.org/) |
-| **GitHub Actions** | CI/CD | [docs.github.com](https://docs.github.com/en/actions) |
-| **Replit C++** | Browser IDE | [replit.com](https://replit.com/languages/cpp) |
+| **Visual Studio Code** | IDE | [code.visualstudio.com](https://code.visualstudio.com/) |
+| **CLion** | IDE | [jetbrains.com/clion](https://www.jetbrains.com/clion/) |
+| **Code::Blocks** | IDE | [codeblocks.org](https://www.codeblocks.org/) |
+| **Replit** | Browser IDE | [replit.com](https://replit.com/) |
+| **GitHub Student Pack** | Free Tools | [education.github.com](https://education.github.com/pack) |
 
 ---
 
 ## 📂 **GitHub Repos**
 | Repo | Description | Stars |
 |------|-------------|-------|
-| **[Awesome C++](https://github.com/fffaraz/awesome-cpp)** | 50k+ stars! Libraries & tools. | ⭐50k |
-| **[STL Implementation](https://github.com/microsoft/STL)** | Microsoft’s STL source code. | ⭐10k |
-| **[C++ Projects](https://github.com/AlmasB/GameProgramming)** | Game dev examples. | ⭐3k |
-| **[Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)** | Algorithms & contests. | ⭐12k |
-| **[C++ Patterns](https://github.com/plazmer/design-patterns-cpp)** | Design patterns in C++. | ⭐2k |
+| **[Awesome C++](https://github.com/fffaraz/awesome-cpp)** | 30k+ stars! Tools & frameworks. | ⭐30k |
+| **[C++ Algorithms](https://github.com/TheAlgorithms/C-Plus-Plus)** | Algorithms and data structures. | ⭐45k |
+| **[C++ Game Development](https://github.com/SFML/SFML)** | SFML library for game development. | ⭐10k |
+| **[C++ STL](https://github.com/lnishan/awesome-cpp-stl)** | STL resources and examples. | ⭐5k |
+| **[C++ Projects](https://github.com/radareorg/cutter)** | Reverse engineering tool. | ⭐10k |
 
 ---
 
 ## ❓ **FAQ**
-**Q: How is C++ different from Python?**  
-A: C++ is lower-level, faster, and used for system programming. Python is higher-level and better for scripting.  
-**Q: Which IDE is best for C++?**  
-A: **Visual Studio** (Windows) or **CLion** (cross-platform).  
-**Q: How to contribute to C++ open-source?**  
-A: Start with [CPP Alliance Projects](https://cppalliance.org/).
+**Q: Which resource should I start with?**  
+A: Beginners: **LearnCpp** or **freeCodeCamp C++**.  
+**Q: How to practice C++ daily?**  
+A: Try **Codewars** or **Exercism**.  
+**Q: How to contribute to open-source?**  
+A: Check [Good First Issues](https://goodfirstissue.dev/language/cpp).
 
 ---
 
 ## 🤝 **Contributing**  
-1. Fork [Programming-17](https://github.com/Alexcj10/Programming-17).  
-2. Add new C++ resources or fix issues.  
+1. Fork this repo.  
+2. Add **new resources** or fix broken links.  
 3. Submit a PR!  
 
-**⭐ Star this repo** to help it grow!  
+**⭐ Star this repo** to support the community!  
 
 ---
 
-Found a broken link? [Report it here](https://github.com/Alexcj10/Programming-17/issues).  
+Found a broken link? [Report it here!](https://github.com/Alexcj10/Programming-17/issues)  
