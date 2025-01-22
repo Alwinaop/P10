@@ -10,7 +10,7 @@ _A curated list of **100+ free resources** to learn Python, build projects, and 
 |----------|-------------|------------|
 | **[Python Official Docs](https://docs.python.org/3/)** | The ultimate source for Python syntax, libraries, and updates. | Core Language |
 | **[Automate the Boring Stuff](https://automatetheboringstuff.com/)** | Free book + videos for automating tasks (files, emails, web scraping). | Automation |
-| **[Harvard CS50: Python](https://cs50.harvard.edu/python/2024/)** | Harvard’s intro course with Python focus (2024 edition). | Problem Solving |
+| **[Harvard CS50: Python](https://cs50.harvard.edu/python/2025/)** | Harvard’s intro course with Python focus (2025 edition) :cite[8]. | Problem Solving |
 | **[Python for Everybody](https://www.py4e.com/)** | Free textbook + Coursera specialization by Dr. Chuck. | Basics to Web/Data |
 | **[Google’s Python Class](https://developers.google.com/edu/python)** | Google’s crash course with exercises. | Syntax & Best Practices |
 
@@ -33,7 +33,7 @@ _A curated list of **100+ free resources** to learn Python, build projects, and 
 | **[Python Crash Course](https://ehmatthes.github.io/pcc/)** | Project-based book (first edition free online). | Web/Data Projects |
 | **[Think Python](https://greenteapress.com/wp/think-python-2e/)** | OOP and computational thinking. | Web/PDF |
 | **[Real Python](https://realpython.com/)** | 2,000+ tutorials (free tier available). | Web/APIs/Advanced |
-| **[Learn Python the Hard Way](https://learnpythontherightway.com/)** | Drills for syntax mastery (updated 2025 edition). | Syntax Mastery |
+| **[Learn Python the Hard Way](https://learnpythonthehardway.org/)** | Drills for syntax mastery (updated 2025 edition) :cite[10]. | Syntax Mastery |
 | **[Python Basics](https://pythonbasics.org/)** | Short, digestible chapters for quick learning. | Quick Reference |
 
 ---
@@ -64,7 +64,7 @@ _A curated list of **100+ free resources** to learn Python, build projects, and 
 | Project | Difficulty | Resources |
 |---------|------------|-----------|
 | **Todo List CLI App** | Beginner | [Tutorial](https://realpython.com/python-todo-list-cli/) |
-| **Web Scraper** | Intermediate | [Guide](https://realpython.com/python-web-scraping-practical-introduction/) |
+| **Web Scraper** | Intermediate | [Guide](https://www.scrapingbee.com/blog/python-web-scraping/) :cite[2] |
 | **Discord Bot** | Intermediate | [Discord.py Docs](https://discordpy.readthedocs.io/) |
 | **Flask Blog** | Advanced | [Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) |
 | **Neural Network from Scratch** | Advanced | [Guide](https://victorzhou.com/blog/intro-to-neural-networks/) |
@@ -78,7 +78,7 @@ _A curated list of **100+ free resources** to learn Python, build projects, and 
 | **Machine Learning** | **[Fast.ai](https://course.fast.ai/)** | Practical ML with Python. |
 | **Web Dev** | **[Full Stack Python](https://www.fullstackpython.com/)** | Flask/Django guides. |
 | **Automation** | **[Practical Python Projects](https://github.com/realpython/python-basics-exercises)** | GitHub repo with scripts. |
-| **Games** | **[Pygame Tutorials](https://www.pygame.org/wiki/tutorials)** | Build games with Pygame. |
+| **Games** | **[Pygame Tutorials](https://www.pygame.org/docs/)** | Build games with Pygame :cite[9]. |
 
 ---
 
@@ -100,7 +100,7 @@ _A curated list of **100+ free resources** to learn Python, build projects, and 
 | **Pandas** | [Data Wrangling Guide](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) |
 | **Regex** | [Regex in Python](https://cheatography.com/davechild/cheat-sheets/regular-expressions/) |
 | **Matplotlib** | [Visualization Cheat Sheet](https://matplotlib.org/cheatsheets/) |
-| **Django** | [Django Sheet](https://github.com/codingforentrepreneurs/Cheat-Sheets) |
+| **Django** | [Django Cheat Sheet](https://docs.djangoproject.com/en/5.0/ref/cheatsheet/) :cite[9] |
 
 ---
 
@@ -139,7 +139,7 @@ _A curated list of **100+ free resources** to learn Python, build projects, and 
 
 ## ❓ **FAQ**
 **Q: Which resource should I start with?**  
-A: Beginners: **Automate the Boring Stuff** or **Python for Everybody**.  
+A: Beginners: **Automate the Boring Stuff** or **Python for Everybody** :cite[3]:cite[8].  
 **Q: How to practice Python daily?**  
 A: Try **Codewars** or **100 Days of Code**.  
 **Q: How to contribute to open-source?**  
