@@ -32,7 +32,7 @@ _A curated list of **100+ free resources** to learn JavaScript, build projects, 
 |------|-------------|-------------|
 | **[Eloquent JavaScript](https://eloquentjavascript.net/)** | Free book with exercises and projects. | Web/PDF |
 | **[You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)** | Deep dive into JavaScript concepts. | GitHub Repo |
-| **[JavaScript for Cats](http://jsforcats.com/)** | Beginner-friendly guide to JavaScript. | Web |
+| **[JavaScript for Cats](https://jsforcats.com/)** | Beginner-friendly guide to JavaScript. | Web |
 | **[Exploring JS](https://exploringjs.com/)** | Books on modern JavaScript (ES6+). | Web/PDF |
 | **[JavaScript Basics](https://javascriptbasics.org/)** | Short, digestible chapters for quick learning. | Quick Reference |
 
@@ -76,7 +76,7 @@ _A curated list of **100+ free resources** to learn JavaScript, build projects, 
 |-------|----------|-------------|
 | **Frontend Development** | **[Frontend Mentor](https://www.frontendmentor.io/)** | Practice building real-world projects. |
 | **Node.js** | **[Node.js Official Docs](https://nodejs.org/en/docs/)** | Learn backend development with Node.js. |
-| **React** | **[React Official Docs](https://reactjs.org/docs/getting-started.html)** | Build modern UIs with React. |
+| **React** | **[React Official Docs](https://react.dev/learn)** | Build modern UIs with React. |
 | **TypeScript** | **[TypeScript Handbook](https://www.typescriptlang.org/docs/)** | Learn typed JavaScript. |
 | **Web APIs** | **[MDN Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)** | Explore browser APIs. |
 
@@ -98,9 +98,9 @@ _A curated list of **100+ free resources** to learn JavaScript, build projects, 
 |-------|----------|
 | **JavaScript Basics** | [Cheat Sheet](https://htmlcheatsheet.com/js/) |
 | **ES6+ Features** | [ES6 Cheat Sheet](https://devhints.io/es6) |
-| **React** | [React Cheat Sheet](https://devhints.io/react) |
-| **Node.js** | [Node.js Cheat Sheet](https://devhints.io/nodejs) |
-| **TypeScript** | [TypeScript Cheat Sheet](https://devhints.io/typescript) |
+| **React** | [React Cheat Sheet](https://react.dev/reference) |
+| **Node.js** | [Node.js Cheat Sheet](https://nodejs.org/api/synopsis.html) |
+| **TypeScript** | [TypeScript Cheat Sheet](https://www.typescriptlang.org/cheatsheets) |
 
 ---
 
@@ -133,15 +133,15 @@ _A curated list of **100+ free resources** to learn JavaScript, build projects, 
 | **[30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)** | Daily challenges. | ⭐25k |
 | **[JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)** | Algorithms and data structures. | ⭐150k |
 | **[Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)** | Best practices for Node.js. | ⭐80k |
-| **[React Projects](https://github.com/ryanmcdermott/clean-code-javascript)** | Clean code examples. | ⭐70k |
+| **[React Projects](https://github.com/alan2207/react-projects)** | Modern React project tutorials. | ⭐3k |
 
 ---
 
 ## ❓ **FAQ**
 **Q: Which resource should I start with?**  
-A: Beginners: **JavaScript.info** or **freeCodeCamp JavaScript**.  
+A: Beginners: **JavaScript.info** or **freeCodeCamp JavaScript** :cite[1]:cite[6].  
 **Q: How to practice JavaScript daily?**  
-A: Try **Codewars** or **30 Days of JavaScript**.  
+A: Try **Codewars** or **30 Days of JavaScript** :cite[6].  
 **Q: How to contribute to open-source?**  
 A: Check [Good First Issues](https://goodfirstissue.dev/language/javascript).
 
