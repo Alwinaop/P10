@@ -1,35 +1,76 @@
-# Contributor Covenant Code of Conduct
+# 🌍 **Community Code of Conduct** 🌍
 
-## Our Pledge
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+## **Our Vision**
+At **P10**, we believe in building a **safe, inclusive, and empowering community** where everyone feels welcome to learn, contribute, and grow. We are committed to fostering an environment that celebrates diversity, encourages collaboration, and upholds the highest standards of respect and professionalism.
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+This Code of Conduct outlines the expectations for all members of our community, as well as the steps we take to ensure a positive experience for everyone.
 
-## Our Standards
-Examples of behavior that contributes to a positive environment for our community include:
+---
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall community
+## **Our Core Values**
+We strive to create a community that is:
+- **Inclusive**: Welcoming individuals of all backgrounds, identities, and experiences.
+- **Respectful**: Valuing diverse perspectives and treating everyone with kindness.
+- **Collaborative**: Encouraging teamwork, constructive feedback, and shared growth.
+- **Accountable**: Taking responsibility for our actions and learning from our mistakes.
 
-Examples of unacceptable behavior include:
+---
 
-* The use of sexualized language or imagery, and sexual attention or advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+## **Expected Behavior**
+To maintain a positive and productive environment, we expect all community members to:
+- **Be Kind and Empathetic**: Treat others with compassion and understanding.
+- **Respect Differences**: Embrace diverse opinions, experiences, and perspectives.
+- **Communicate Constructively**: Offer feedback thoughtfully and accept it gracefully.
+- **Act with Integrity**: Be honest, transparent, and accountable in all interactions.
+- **Support the Community**: Prioritize the collective well-being over individual interests.
 
-## Enforcement Responsibilities
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+---
 
-## Scope
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces.
+## **Unacceptable Behavior**
+The following behaviors are **not tolerated** in our community:
+- **Harassment**: Including but not limited to sexualized language, imagery, or unwelcome advances.
+- **Discrimination**: Offensive comments or actions based on age, body size, disability, ethnicity, gender identity, experience level, nationality, personal appearance, race, religion, or sexual orientation.
+- **Trolling or Insults**: Deliberate provocation, personal attacks, or derogatory remarks.
+- **Privacy Violations**: Sharing or publishing others' private information without consent.
+- **Unprofessional Conduct**: Any behavior that disrupts the community or creates a hostile environment.
 
-## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [your contact email]. All complaints will be reviewed and investigated promptly and fairly.
+---
 
-## Attribution
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+## **Our Commitment to Enforcement**
+Community leaders are responsible for **upholding these standards** and ensuring a safe and welcoming environment for all. If any behavior violates this Code of Conduct, we will take appropriate action, which may include:
+- **Warnings**: For minor or first-time violations.
+- **Temporary Bans**: For repeated or moderate violations.
+- **Permanent Bans**: For severe or egregious offenses.
+
+All enforcement actions will be carried out with **fairness, transparency, and respect** for everyone involved.
+
+---
+
+## **Scope**
+This Code of Conduct applies to **all community spaces**, including:
+- GitHub repositories, issues, and discussions.
+- Social media platforms and forums.
+- In-person or virtual events hosted by the community.
+- Any other spaces where community members interact, whether officially or unofficially.
+
+It also applies to individuals who are **representing the community** in public settings.
+
+---
+
+## **Reporting Violations**
+If you experience or witness behavior that violates this Code of Conduct, please report it immediately to the community leaders at **[your contact email]**. All reports will be:
+- **Reviewed Promptly**: We will acknowledge your report and begin an investigation as soon as possible.
+- **Handled Confidentially**: Your privacy and safety are our top priorities.
+- **Addressed Fairly**: We will take appropriate action based on the findings of the investigation.
+
+---
+
+## **Acknowledgments**
+This Code of Conduct is inspired by the **[Contributor Covenant](https://www.contributor-covenant.org)**, version 2.0, available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
+
+---
+
+## **Our Promise to You**
+We are committed to maintaining a **safe, inclusive, and welcoming community** for everyone. By participating in this community, you agree to abide by this Code of Conduct and contribute to a positive and respectful environment for all.
+
+Together, we can build a community that empowers and inspires. Thank you for being a part of it! 🌟
