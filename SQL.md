@@ -1,4 +1,4 @@
-# SQL Learning and Project Resources (2025)
+# SQL Learning and Project Resources
 
 ## Why Learn SQL?
 - **Universal Language**: SQL is the standard for managing relational databases, used in 90% of data-driven companies.
