@@ -1,6 +1,6 @@
 # 🚀 Ultimate Swift Learning & Project Guide
 
-_A curated list of free resources to master Swift programming, build Apple ecosystem apps, and join the developer community_
+_A curated list of **free resources** to master Swift programming, build Apple ecosystem apps, and join the developer community_
 
 ---
 
