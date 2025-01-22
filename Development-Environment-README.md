@@ -1,6 +1,6 @@
-# Programming-17
+# P10
 
-Welcome to the Programming-17 project! This repository aims to explore and showcase implementations in 17 essential programming languages. Whether you're a seasoned developer or just starting out, there's a place for you to contribute and learn.
+Welcome to the P10 project! This repository aims to explore and showcase implementations in 10 essential programming languages. Whether you're a seasoned developer or just starting out, there's a place for you to contribute and learn.
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ Click the "Fork" button on the top right of this repository page to create your 
 Clone your forked repository to your local machine using the following command:
 
 ```sh
-git clone https://github.com/Alexcj10/Programming-17.git
+git clone https://github.com/Alexcj10/P10.git
 ```
 ## Set Up Your Environment
 Once cloned, navigate to the project directory. Each programming language has its own directory within the **languages** directory, containing language-specific implementation files and a README.md with setup instructions. Follow the instructions specific to the programming language(s) you wish to contribute to.
@@ -57,16 +57,29 @@ git push origin feature/your-feature-name
 ```
 5. **Open a Pull Request:** Finally, open a pull request from your branch to the main repository. Provide a clear title and description of your changes.
 
-# Code of Conduct
-Please note that we have a Code of Conduct (link) in place to ensure a welcoming and inclusive environment for all contributors. By participating in this project, you agree to abide by its terms.
+## 📜 Code of Conduct
 
-# License
-This project is licensed under the MIT License. By contributing to this project, you agree that your contributions will be licensed under the same license.
+We are committed to fostering a welcoming and inclusive community. Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive experience for everyone.
 
-# Contact
+## 📄 License
+
+By contributing to P10, you agree that your contributions will be licensed under the [MIT License](LICENSE).
+
+## 🌟 Features of P10
+
+- **10 Essential Languages**: Explore implementations in 10 popular programming languages.
+- **Beginner-Friendly**: Clear documentation and setup instructions for each language.
+- **Community-Driven**: Contributions from developers around the world.
+- **Open Source**: Licensed under MIT, so you can use, modify, and share freely.
+
+---
+
+## 📞 Contact
+
 If you have any questions, concerns, or just want to say hello, feel free to reach out to the project maintainers:
 
-• [Alexcj10](https://github.com/Alexcj10) (Maintainer)
-```
-Feel free to replace `[Alexcj10](https://github.com/Alexcj10)` with your preferred contact information. Let me know if you need further adjustments or have any other questions!
-```
+- **[Alexcj10](https://github.com/Alexcj10)** (Maintainer)
+
+---
+
+Thank you for being part of the P10 community! Your contributions make a difference. 🎉
