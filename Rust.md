@@ -1,104 +1,100 @@
-# Rust Learning and Project Resources
+# Rust Programming Language Resources (2025)
 
 ## Why Learn Rust?
-Rust is a systems programming language focused on safety, speed, and concurrency. It guarantees memory safety without garbage collection, making it ideal for embedded systems, game engines, web assembly, and high-performance applications. Companies like Microsoft, Google, and Amazon use Rust for critical infrastructure. Its growing adoption in blockchain (Solana, Polkadot) and AI/ML makes it a future-proof skill.
+- **Memory Safety**: Compile-time guarantees prevent null pointers, data races, and buffer overflows.  
+- **Blazing Fast**: Native performance comparable to C/C++ with zero-cost abstractions.  
+- **Concurrency**: Fearless parallelism with ownership/borrowing system.  
+- **Cross-Platform**: Build for embedded systems, WebAssembly, Linux/Windows/macOS, and kernels.  
+- **Industry Adoption**: Used by Microsoft, Google, Meta, AWS, Cloudflare, and blockchain platforms (Solana, Polkadot).  
 
 ---
 
-## Free Learning Resources
+## Free Learning Resources  
+### **Beginner-Friendly**  
+- **[The Rust Book](https://doc.rust-lang.org/book/)** - Official free guide (covers syntax to advanced concepts).  
+- **[Rustlings](https://github.com/rust-lang/rustlings)** - 100+ interactive exercises with instant feedback.  
+- **[FreeCodeCamp Rust Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ)** - 16-hour hands-on YouTube tutorial.  
+- **[Rust Playground](https://play.rust-lang.org/)** - Experiment with code in your browser.  
 
-### **Beginner-Friendly**
-- **[The Rust Programming Language (The Book)](https://doc.rust-lang.org/book/)** - Official free guide covering syntax, ownership, and lifetimes.
-- **[Rustlings](https://github.com/rust-lang/rustlings)** - Interactive exercises to practice Rust concepts.
-- **[Rust by Example](https://doc.rust-lang.org/rust-by-example/)** - Learn through code snippets with live editing.
-- **[FreeCodeCamp Rust Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ)** - 16-hour hands-on YouTube tutorial.
-
-### **Intermediate/Advanced**
-- **[The Rustonomicon](https://doc.rust-lang.org/nomicon/)** - Master unsafe Rust and low-level optimizations.
-- **[Writing an OS in Rust](https://os.phil-opp.com/)** - Build a kernel from scratch.
-- **[Rust Atomics and Locks](https://marabos.nl/atomics/)** - Deep dive into concurrency primitives.
-- **[Advent of Code Solutions in Rust](https://github.com/rust-lang/advent-of-code-2023)** - Algorithmic challenges.
+### **Intermediate/Advanced**  
+- **[The Rustonomicon](https://doc.rust-lang.org/nomicon/)** - Master unsafe Rust, FFI, and memory layouts.  
+- **[Async Rust](https://rust-lang.github.io/async-book/)** - Official guide to async/await and futures.  
+- **[Writing an OS in Rust](https://os.phil-opp.com/)** - Build a kernel from scratch.  
+- **[Rust for Rustaceans](https://rust-for-rustaceans.com/)** - Advanced patterns and idioms.  
 
 ---
 
-## Project Ideas by Skill Level
-
-### **Beginner**
+## Project Ideas by Skill Level  
+### **Beginner**  
 1. **CLI Todo List**  
-   - Practice file I/O and CRUD operations.  
+   - Practice file I/O and error handling.  
    - *Crates*: `clap`, `serde`.  
-   - [Sample Code](https://github.com/rust-lang/rustlings/tree/main/exercises).
+   - [Sample Code](https://github.com/rust-lang/rustlings/tree/main/exercises).  
 
-2. **Weather CLI Tool**  
-   - Fetch data via APIs using `reqwest`.  
-   - *Crates*: `serde_json`, `tokio`.
+2. **HTTP API Client**  
+   - Fetch data via `reqwest` and parse JSON with `serde_json`.  
 
 3. **File Organizer**  
-   - Sort files by type/date.  
-   - *Crates*: `std::fs`, `chrono`.
+   - Sort files by type/date using `std::fs` and `chrono`.  
 
-### **Intermediate**
-1. **Web API with Actix**  
-   - Build a RESTful API with PostgreSQL.  
-   - *Crates*: `actix-web`, `diesel`, `dotenv`.
+### **Intermediate**  
+1. **REST API with Actix**  
+   - Build a CRUD service with PostgreSQL using `sqlx` and `tokio`.  
+   - *Framework*: [Actix Web](https://actix.rs/).  
 
-2. **Real-Time Chat App**  
-   - Use WebSockets (`tokio-tungstenite`).  
-   - *Framework*: `axum` or `actix`.
+2. **Real-Time Chat**  
+   - Use WebSockets (`tokio-tungstenite`) and async streams.  
 
-3. **Markdown to HTML Converter**  
-   - Parse and transform text.  
-   - *Crates*: `pulldown-cmark`, `regex`.
+3. **Markdown Parser**  
+   - Convert `.md` to HTML with `pulldown-cmark`.  
 
-### **Advanced**
+### **Advanced**  
 1. **Blockchain Node**  
-   - Implement consensus algorithms.  
-   - *Crates*: `libp2p`, `parity-scale-codec`.
+   - Implement PoW/PoS consensus with `libp2p` and `parity-scale-codec`.  
+   - [Substrate Framework](https://substrate.io/).  
 
 2. **Game Engine**  
-   - 2D rendering with `Bevy` or `macroquad`.  
-   - [Bevy Tutorial](https://bevyengine.org/learn/).
+   - 2D/3D rendering with `Bevy` or `Fyrox`.  
+   - [Bevy Tutorial](https://bevyengine.org/learn/book/introduction/).  
 
-3. **Embedded Systems Project**  
-   - Use `embassy-rs` for IoT devices.  
-   - *Guide*: [Embedded Rust Book](https://docs.rust-embedded.org/book/).
-
----
-
-## Tools & Frameworks
-
-| Category          | Tools                                                                 |
-|--------------------|-----------------------------------------------------------------------|
-| **Web Development** | `actix-web`, `rocket`, `axum`, `leptos` (full-stack)                 |
-| **Async Runtime**   | `tokio`, `async-std`                                                 |
-| **Game Dev**        | `bevy`, `macroquad`, `fyrox`                                         |
-| **GUI**             | `egui`, `iced`, `slint`                                              |
-| **Testing**         | `criterion` (benchmarks), `mockito` (HTTP mocking)                   |
-| **Embedded**        | `embassy-rs`, `probe-rs`, `cortex-m`                                 |
+3. **Linux Kernel Module**  
+   - Write Rust code for the Linux kernel.  
+   - [Rust for Linux](https://docs.kernel.org/rust/).  
 
 ---
 
-## Communities & Events
-- **[r/rust](https://www.reddit.com/r/rust/)** - Active Reddit community.
-- **[Rust User Forum](https://users.rust-lang.org/)** - Q&A and discussions.
-- **[RustConf](https://rustconf.com/)** - Annual conference for Rustaceans.
-- **[Hackathons](https://github.com/rust-community/events)** - Global Rust events.
+## Tools & Frameworks  
+| Category          | Tools                                                                 |  
+|--------------------|-----------------------------------------------------------------------|  
+| **Web Dev**        | `actix-web`, `rocket`, `axum`, `leptos` (WASM)                       |  
+| **Async Runtime**  | `tokio`, `async-std`                                                 |  
+| **Game Dev**       | `Bevy`, `Fyrox`, `macroquad`                                         |  
+| **GUI**            | `egui`, `iced`, `slint`                                              |  
+| **Testing**        | `criterion` (benchmarks), `mockito` (HTTP mocking)                   |  
+| **Embedded**       | `embassy-rs`, `probe-rs`, `cortex-m`                                 |  
 
 ---
 
-## Books & Bonus Resources
-- **[Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)** - O’Reilly’s definitive guide.
-- **[Zero To Production In Rust](https://zero2prod.com/)** - API development from scratch.
-- **[Rust Cheat Sheet](https://cheats.rs/)** - Quick syntax reference.
-- **[Rust Playground](https://play.rust-lang.org/)** - Experiment with code online.
+## Communities & Events  
+- **[r/rust](https://www.reddit.com/r/rust/)** - 1M+ members discussing news and projects.  
+- **[Rust Users Forum](https://users.rust-lang.org/)** - Q&A and technical help.  
+- **[RustConf](https://rustconf.com/)** - Annual conference with workshops.  
+- **[Rust Hackathon](https://hack.rusthub.org/)** - Global coding competitions.  
 
 ---
 
-## YouTube Channels
-- **[Let’s Get Rusty](https://www.youtube.com/c/LetsGetRusty)** - Tutorials and book breakdowns.
-- **[Jon Gjengset](https://www.youtube.com/c/JonGjengset)** - Advanced concurrency/OS topics.
-- **[Tensor Programming](https://www.youtube.com/c/TensorProgramming)** - Project-based learning.
+## Books & References  
+- **[Programming Rust, 2nd Ed.](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)** - O’Reilly’s definitive guide.  
+- **[Zero To Production In Rust](https://zero2prod.com/)** - Build production-ready APIs.  
+- **[Rust Cheat Sheet](https://cheats.rs/)** - Quick syntax and concept reference.  
 
 ---
 
-All links tested and verified (July 2024). 🦀  
+## Bonus Resources  
+- **[Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)** - Practical code examples.  
+- **[This Week in Rust](https://this-week-in-rust.org/)** - Weekly newsletter.  
+- **[Rust Design Patterns](https://github.com/rust-unofficial/patterns)** - Idiomatic solutions.  
+
+---
+
+All links verified and functional (January 2025). 🦀  
