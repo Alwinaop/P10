@@ -1,4 +1,4 @@
-# Contributing to Programming-17
+# Contributing to P10
 
 Thank you for your interest in contributing to the Programming-17 project! Here are some guidelines to help you get started.
 
@@ -10,7 +10,7 @@ Thank you for your interest in contributing to the Programming-17 project! Here 
 2. **Clone Your Fork**
    - Clone your forked repository to your local machine:
      ```sh
-     git clone https://github.com/Alexcj10/Programming-17.git
+     git clone https://github.com/Alexcj10/P10.git
      ```
 
 3. **Set Up the Development Environment**
