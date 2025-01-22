@@ -1,6 +1,6 @@
-# 🚀 Ultimate JavaScript Learning & Project Guide
+# 🌟 Ultimate JavaScript Learning & Project Guide
 
-_A curated list of **100+ free resources** to master JavaScript, build projects, and join the community._
+_A curated list of **100+ free resources** to learn JavaScript, build projects, and join the community. Updated for 2025!_
 
 ---
 
@@ -8,66 +8,77 @@ _A curated list of **100+ free resources** to master JavaScript, build projects,
 ### _Foundational Resources_
 | Resource | Description | Focus Area |
 |----------|-------------|------------|
-| **[MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** | The Bible for JS syntax, APIs, and best practices. | Core Language |
-| **[freeCodeCamp JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)** | Interactive coding challenges and projects. | Algorithms |
-| **[Eloquent JavaScript](https://eloquentjavascript.net/)** | Free book + exercises for modern JS (ES6+). | Fundamentals |
-| **[JavaScript.info](https://javascript.info/)** | Detailed tutorials from basics to advanced topics. | Full Stack |
-| **[You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)** | Free book series diving deep into JS quirks. | Advanced Concepts |
+| **[MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)** | The ultimate source for JavaScript syntax, APIs, and updates. | Core Language |
+| **[JavaScript.info](https://javascript.info/)** | Comprehensive tutorial from basics to advanced topics. | Core Language |
+| **[freeCodeCamp JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)** | Interactive coding challenges and projects. | Problem Solving |
+| **[Eloquent JavaScript](https://eloquentjavascript.net/)** | Free book with exercises and projects. | Core Language & Problem Solving |
+| **[Google’s JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)** | Best practices for writing clean JavaScript code. | Best Practices |
 
 ---
 
 ## 🌐 **Interactive Learning**
 | Platform | Description | Features |
 |----------|-------------|----------|
-| **[Codecademy JS](https://www.codecademy.com/learn/introduction-to-javascript)** | Learn JS basics in-browser. | Quizzes, Projects |
-| **[Scrimba JS](https://scrimba.com/learn/learnjavascript)** | Interactive video tutorials with live coding. | React/Node |
-| **[Frontend Mentor](https://www.frontendmentor.io/)** | Build real-world projects with designs. | UI/UX Focus |
-| **[LeetCode JS](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/)** | Coding challenges for interviews. | Problem Solving |
-| **[JSRobot](https://lab.reaal.me/jsrobot/)** | Gamified JS learning. | Beginner Friendly |
+| **[Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)** | Learn JavaScript interactively in-browser. | Quizzes, Projects |
+| **[freeCodeCamp](https://www.freecodecamp.org/)** | Full JavaScript curriculum with certifications. | Hands-on Projects |
+| **[Scrimba](https://scrimba.com/learn/learnjavascript)** | Interactive coding tutorials with screencasts. | Real-time Coding |
+| **[Exercism](https://exercism.org/tracks/javascript)** | Practice JavaScript with mentor-reviewed exercises. | Code Challenges |
+| **[SoloLearn](https://www.sololearn.com/learning/1024)** | Mobile-friendly JavaScript course. | Gamified Learning |
 
 ---
 
 ## 📚 **Books & E-Books**
 | Book | Description | Free Access |
 |------|-------------|-------------|
-| **[JavaScript: The Good Parts](https://www.crockford.com/books.html)** | Classic book on JS best practices. | [PDF](https://cdnjs.cloudflare.com/ajax/libs/javascript-the-good-parts/1.1.0/JavaScriptTheGoodParts.pdf) |
-| **[ES6 for Everyone](https://es6.io/)** | Modern JS features (free chapters available). | ES6+ |
-| **[Exploring JS](https://exploringjs.com/)** | Books on ES6, TypeScript, and Node.js. | Deep Dives |
-| **[JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)** | Free design patterns guide. | OOP & Architecture |
-| **[Node.js Handbook](https://flaviocopes.com/express-handbook/)** | Free Node.js/Express guide. | Backend |
+| **[Eloquent JavaScript](https://eloquentjavascript.net/)** | Free book with exercises and projects. | Web/PDF |
+| **[You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)** | Deep dive into JavaScript concepts. | GitHub Repo |
+| **[JavaScript for Cats](http://jsforcats.com/)** | Beginner-friendly guide to JavaScript. | Web |
+| **[Exploring JS](https://exploringjs.com/)** | Books on modern JavaScript (ES6+). | Web/PDF |
+| **[JavaScript Basics](https://javascriptbasics.org/)** | Short, digestible chapters for quick learning. | Quick Reference |
 
 ---
 
 ## 🎥 **Video Courses**
 | Course | Creator | Highlights |
 |--------|---------|------------|
-| **[JS Full Course](https://youtu.be/PkZNo7MFNFg)** | freeCodeCamp | 12-hour masterclass (ES6 to APIs). |
-| **[Modern JS Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)** | The Net Ninja | 2023 ES6+ concepts. |
-| **[JS 30](https://javascript30.com/)** | Wes Bos | 30 vanilla JS projects (free). |
-| **[Node.js Tutorial](https://youtu.be/TlB_eWDSMt4)** | Programming with Mosh | Backend development. |
-| **[React for Beginners](https://youtu.be/DLX62G4lc44)** | Academind | Build a full React app. |
+| **[JavaScript Full Course](https://youtu.be/PkZNo7MFNFg)** | freeCodeCamp | 3.5-hour beginner to pro journey. |
+| **[JavaScript Tutorial for Beginners](https://youtu.be/W6NZfCO5SIk)** | Programming with Mosh | 1-hour crash course. |
+| **[Modern JavaScript Tutorial](https://youtube.com/playlist?list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT)** | The Net Ninja | 100+ videos (ES6+, React, Node.js). |
+| **[JavaScript Algorithms and Data Structures](https://youtu.be/2ZphE5HcQPQ)** | freeCodeCamp | 5-hour deep dive into algorithms. |
+| **[JavaScript DOM Manipulation](https://youtu.be/5fb2aPlgoys)** | Traversy Media | Full course on DOM manipulation. |
+
+---
+
+## ▶️ **YouTube Playlists**
+| Playlist | Creator | Content |
+|----------|---------|---------|
+| **[JavaScript Tutorials](https://youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)** | The Net Ninja | 100+ videos (ES6+, React, Node.js). |
+| **[JavaScript Full Course](https://youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)** | freeCodeCamp | 12-hour beginner to pro journey. |
+| **[JavaScript Projects](https://youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)** | Traversy Media | 20+ practical project walkthroughs. |
+| **[JavaScript DOM](https://youtube.com/playlist?list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)** | Traversy Media | DOM manipulation and events. |
+| **[JavaScript Algorithms](https://youtube.com/playlist?list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC)** | freeCodeCamp | Algorithms and data structures. |
 
 ---
 
 ## 🛠️ **Project Ideas**
 | Project | Difficulty | Resources |
 |---------|------------|-----------|
-| **Todo App** | Beginner | [Tutorial](https://www.freecodecamp.org/news/how-to-build-a-todo-app-with-react/) |
-| **Weather App** | Intermediate | [Guide](https://scrimba.com/learn/frontend) |
-| **E-commerce Cart** | Intermediate | [Example](https://github.com/andrewjmead/react-course-v3/tree/main) |
-| **Chat App** | Advanced | [Socket.io](https://socket.io/get-started/chat) |
-| **3D Game** | Advanced | [Three.js](https://threejs.org/examples/#webgl_animation_keyframes) |
+| **To-Do List App** | Beginner | [Tutorial](https://www.freecodecamp.org/news/how-to-build-a-todo-list-app-with-javascript/) |
+| **Weather App** | Intermediate | [Guide](https://www.freecodecamp.org/news/how-to-create-a-weather-app-using-javascript/) |
+| **Chat Application** | Advanced | [Socket.io Tutorial](https://socket.io/get-started/chat) |
+| **E-Commerce Website** | Advanced | [React & Node.js Tutorial](https://www.youtube.com/watch?v=377AQ0y6LPA) |
+| **Game Development** | Intermediate | [Phaser.js Tutorial](https://phaser.io/tutorials/making-your-first-phaser-3-game) |
 
 ---
 
 ## 🧩 **Specialized Topics**
 | Topic | Resource | Description |
 |-------|----------|-------------|
-| **React** | **[React Docs](https://beta.reactjs.org/)** | Official docs with interactive examples. |
-| **Node.js** | **[NodeSchool](https://nodeschool.io/)** | Learn backend JS with workshops. |
-| **TypeScript** | **[TS Handbook](https://www.typescriptlang.org/docs/)** | Static typing for JS. |
-| **Data Viz** | **[D3.js](https://d3js.org/)** | Create dynamic visualizations. |
-| **Games** | **[Phaser.js](https://phaser.io/learn)** | Build browser games. |
+| **Frontend Development** | **[Frontend Mentor](https://www.frontendmentor.io/)** | Practice building real-world projects. |
+| **Node.js** | **[Node.js Official Docs](https://nodejs.org/en/docs/)** | Learn backend development with Node.js. |
+| **React** | **[React Official Docs](https://reactjs.org/docs/getting-started.html)** | Build modern UIs with React. |
+| **TypeScript** | **[TypeScript Handbook](https://www.typescriptlang.org/docs/)** | Learn typed JavaScript. |
+| **Web APIs** | **[MDN Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)** | Explore browser APIs. |
 
 ---
 
@@ -75,32 +86,32 @@ _A curated list of **100+ free resources** to master JavaScript, build projects,
 | Platform | Focus | Link |
 |----------|-------|------|
 | **Codewars** | Coding Challenges | [codewars.com](https://www.codewars.com/) |
-| **Frontend Mentor** | Real Projects | [frontendmentor.io](https://www.frontendmentor.io/) |
-| **Codepen** | Creative Coding | [codepen.io](https://codepen.io/) |
-| **JSFiddle** | Code Sharing | [jsfiddle.net](https://jsfiddle.net/) |
-| **Advent of JS](https://www.adventofjs.com/)** | Holiday Puzzles | [adventofjs.com](https://www.adventofjs.com/) |
+| **LeetCode** | Interview Prep | [leetcode.com](https://leetcode.com/) |
+| **HackerRank** | Skill Tracks | [hackerrank.com/domains/tutorials/10-days-of-javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) |
+| **Frontend Mentor** | Frontend Projects | [frontendmentor.io](https://www.frontendmentor.io/) |
+| **Exercism** | Code Challenges | [exercism.org/tracks/javascript](https://exercism.org/tracks/javascript) |
 
 ---
 
 ## 💡 **Cheat Sheets**
 | Topic | Resource |
 |-------|----------|
-| **ES6** | [ES6 Cheatsheet](https://devhints.io/es6) |
+| **JavaScript Basics** | [Cheat Sheet](https://htmlcheatsheet.com/js/) |
+| **ES6+ Features** | [ES6 Cheat Sheet](https://devhints.io/es6) |
 | **React** | [React Cheat Sheet](https://devhints.io/react) |
-| **Node.js** | [Node.js Cheatsheet](https://overapi.com/nodejs) |
-| **TypeScript** | [TS Cheatsheet](https://www.typescriptlang.org/cheatsheets) |
-| **Regex** | [Regex in JS](https://cheatography.com/davechild/cheat-sheets/regular-expressions/) |
+| **Node.js** | [Node.js Cheat Sheet](https://devhints.io/nodejs) |
+| **TypeScript** | [TypeScript Cheat Sheet](https://devhints.io/typescript) |
 
 ---
 
 ## 🌟 **Community & News**
 | Resource | Description |
 |----------|-------------|
-| **[r/learnjavascript](https://www.reddit.com/r/learnjavascript/)** | Reddit’s JS Q&A hub. |
-| **[Dev.to](https://dev.to/t/javascript)** | Articles & discussions. |
-| **[JS Weekly](https://javascriptweekly.com/)** | Curated newsletter. |
-| **[Hashnode JS](https://hashnode.com/n/javascript)** | Blogging platform. |
-| **[Smashing Magazine](https://www.smashingmagazine.com/category/javascript/)** | Advanced tutorials. |
+| **[r/learnjavascript](https://www.reddit.com/r/learnjavascript/)** | Reddit’s JavaScript Q&A hub. |
+| **[JavaScript Discord](https://discord.gg/javascript)** | Live chat for learners. |
+| **[JavaScript Weekly](https://javascriptweekly.com/)** | Newsletter with curated articles. |
+| **[Syntax.fm Podcast](https://syntax.fm/)** | Web development and JavaScript tips. |
+| **[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** | Official documentation and updates. |
 
 ---
 
@@ -108,41 +119,41 @@ _A curated list of **100+ free resources** to master JavaScript, build projects,
 | Tool | Use Case | Link |
 |------|----------|------|
 | **Replit** | Browser IDE | [replit.com](https://replit.com/) |
-| **Glitch** | Node.js Hosting | [glitch.com](https://glitch.com/) |
+| **Glitch** | Free Hosting | [glitch.com](https://glitch.com/) |
 | **Vercel** | Deploy Apps | [vercel.com](https://vercel.com/) |
-| **Netlify** | Static Sites | [netlify.com](https://www.netlify.com/) |
-| **CodeSandbox](https://codesandbox.io/)** | React/Vue Sandbox | [codesandbox.io](https://codesandbox.io/) |
+| **CodeSandbox** | Online Editor | [codesandbox.io](https://codesandbox.io/) |
+| **GitHub Student Pack** | Free Tools | [education.github.com](https://education.github.com/pack) |
 
 ---
 
 ## 📂 **GitHub Repos**
 | Repo | Description | Stars |
 |------|-------------|-------|
-| **[Awesome JS](https://github.com/sorrycc/awesome-javascript)** | 50k+ stars! Libraries & tools. | ⭐50k |
-| **[30 Days of JS](https://github.com/Asabeneh/30-Days-Of-JavaScript)** | Daily coding challenges. | ⭐25k |
-| **[Node Best Practices](https://github.com/goldbergyoni/nodebestpractices)** | Backend architecture guide. | ⭐90k |
-| **[Clean Code JS](https://github.com/ryanmcdermott/clean-code-javascript)** | Code quality guidelines. | ⭐80k |
-| **[React Projects](https://github.com/andrewjmead/react-course-v3)** | Full-stack examples. | ⭐2k |
+| **[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)** | 30k+ stars! Tools & frameworks. | ⭐30k |
+| **[30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)** | Daily challenges. | ⭐25k |
+| **[JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)** | Algorithms and data structures. | ⭐150k |
+| **[Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)** | Best practices for Node.js. | ⭐80k |
+| **[React Projects](https://github.com/ryanmcdermott/clean-code-javascript)** | Clean code examples. | ⭐70k |
 
 ---
 
 ## ❓ **FAQ**
-**Q: Should I learn JS or Python first?**  
-A: JS for web dev, Python for data/AI.  
-**Q: Best way to practice JS?**  
-A: Build projects on **[Frontend Mentor](https://www.frontendmentor.io/)**.  
-**Q: How to debug JS?**  
-A: Use Chrome DevTools **[guide](https://developer.chrome.com/docs/devtools/)**.
+**Q: Which resource should I start with?**  
+A: Beginners: **JavaScript.info** or **freeCodeCamp JavaScript**.  
+**Q: How to practice JavaScript daily?**  
+A: Try **Codewars** or **30 Days of JavaScript**.  
+**Q: How to contribute to open-source?**  
+A: Check [Good First Issues](https://goodfirstissue.dev/language/javascript).
 
 ---
 
 ## 🤝 **Contributing**  
-1. Fork **[Programming-17](https://github.com/Alexcj10/Programming-17)**.  
-2. Add JS resources or fix links.  
+1. Fork this repo.  
+2. Add **new resources** or fix broken links.  
 3. Submit a PR!  
 
 **⭐ Star this repo** to support the community!  
 
 ---
 
-Found a broken link? **[Report it here](https://github.com/Alexcj10/Programming-17/issues)**.
+Found a broken link? [Report it here!](https://github.com/Alexcj10/Programming-17/issues)  
