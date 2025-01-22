@@ -22,7 +22,7 @@ _A curated list of **100+ free resources** to learn C#, build projects, and join
 | **[Codecademy](https://www.codecademy.com/learn/learn-c-sharp)** | Learn C# interactively in-browser. | Quizzes, Projects |
 | **[SoloLearn](https://www.sololearn.com/learning/1080)** | Mobile-friendly C# course. | Gamified Learning |
 | **[Exercism](https://exercism.org/tracks/csharp)** | Practice C# with mentor-reviewed exercises. | Code Challenges |
-| **[HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-c-sharp)** | Skill tracks for C# beginners. | Hands-on Challenges |
+| **[HackerRank](https://www.hackerrank.com/domains/csharp)** | Skill tracks for C# beginners. | Hands-on Challenges |
 | **[LeetCode](https://leetcode.com/problemset/all/)** | Practice C# for coding interviews. | Problem Solving |
 
 ---
@@ -42,7 +42,7 @@ _A curated list of **100+ free resources** to learn C#, build projects, and join
 | Course | Creator | Highlights |
 |--------|---------|------------|
 | **[C# Full Course](https://youtu.be/GhQdlIFylQ8)** | freeCodeCamp | 4-hour beginner to pro journey. |
-| **[C# Tutorial for Beginners](https://youtu.be/GhQdlIFylQ8)** | Programming with Mosh | 1-hour crash course. |
+| **[C# Tutorial for Beginners](https://youtu.be/gfkTfcpWqAY)** | Programming with Mosh | Updated 2025 crash course. |
 | **[C# Programming](https://youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)** | The Net Ninja | 100+ videos (OOP, ASP.NET). |
 | **[C# for Beginners](https://youtube.com/playlist?list=PL_c9BZzLwBRKIMP_xNTJxi9lIgQhE47rR)** | Alex Lee | Beginner-friendly tutorials. |
 | **[C# Game Development](https://youtube.com/playlist?list=PLPV2KyIb3jR6TFcFuzI2bB7TMNIIBpKMQ)** | Brackeys | Unity game development with C#. |
@@ -63,11 +63,11 @@ _A curated list of **100+ free resources** to learn C#, build projects, and join
 ## 🛠️ **Project Ideas**
 | Project | Difficulty | Resources |
 |---------|------------|-----------|
-| **To-Do List App** | Beginner | [Tutorial](https://www.codeproject.com/Articles/5251440/Creating-a-To-Do-List-App-in-Csharp) |
-| **Bank Management System** | Intermediate | [Guide](https://www.codeproject.com/Articles/5251440/Creating-a-Bank-Management-System-in-Csharp) |
-| **Chat Application** | Advanced | [Socket Programming](https://www.codeproject.com/Articles/5251440/Creating-a-Chat-Application-in-Csharp) |
+| **To-Do List App** | Beginner | [Tutorial](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/) |
+| **Bank Management System** | Intermediate | [Guide](https://www.c-sharpcorner.com/article/bank-management-system-in-C-Sharp/) |
+| **Chat Application** | Advanced | [SignalR Tutorial](https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction) |
 | **Game Development** | Intermediate | [Unity Tutorial](https://learn.unity.com/project/roll-a-ball) |
-| **Compiler Design** | Advanced | [Guide](https://www.codeproject.com/Articles/5251440/Creating-a-Compiler-in-Csharp) |
+| **Compiler Design** | Advanced | [Roslyn API Guide](https://learn.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/) |
 
 ---
 
@@ -75,10 +75,10 @@ _A curated list of **100+ free resources** to learn C#, build projects, and join
 | Topic | Resource | Description |
 |-------|----------|-------------|
 | **Game Development** | **[Unity Tutorials](https://learn.unity.com/)** | Build games with Unity and C#. |
-| **ASP.NET** | **[ASP.NET Docs](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0)** | Build web applications with ASP.NET. |
-| **Data Structures** | **[GeeksforGeeks](https://www.geeksforgeeks.org/data-structures-in-csharp/)** | Learn data structures in C#. |
+| **ASP.NET** | **[ASP.NET Docs](https://learn.microsoft.com/en-us/aspnet/core/)** | Build web applications with ASP.NET Core. |
+| **Data Structures** | **[C# Data Structures](https://www.c-sharpcorner.com/article/data-structures-in-C-Sharp/)** | Learn data structures in C#. |
 | **LINQ** | **[LINQ Guide](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)** | Master LINQ for data manipulation. |
-| **WPF** | **[WPF Tutorials](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-7.0)** | Build desktop applications with WPF. |
+| **WPF** | **[WPF Tutorials](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)** | Build desktop applications with WPF. |
 
 ---
 
@@ -87,7 +87,7 @@ _A curated list of **100+ free resources** to learn C#, build projects, and join
 |----------|-------|------|
 | **Codewars** | Coding Challenges | [codewars.com](https://www.codewars.com/) |
 | **LeetCode** | Interview Prep | [leetcode.com](https://leetcode.com/) |
-| **HackerRank** | Skill Tracks | [hackerrank.com/domains/tutorials/10-days-of-c-sharp](https://www.hackerrank.com/domains/tutorials/10-days-of-c-sharp) |
+| **HackerRank** | Skill Tracks | [hackerrank.com/domains/csharp](https://www.hackerrank.com/domains/csharp) |
 | **Exercism** | Code Challenges | [exercism.org/tracks/csharp](https://exercism.org/tracks/csharp) |
 | **CodeChef** | Competitive Programming | [codechef.com](https://www.codechef.com/) |
 
@@ -96,11 +96,11 @@ _A curated list of **100+ free resources** to learn C#, build projects, and join
 ## 💡 **Cheat Sheets**
 | Topic | Resource |
 |-------|----------|
-| **C# Basics** | [Cheat Sheet](https://www.codewithharry.com/blogpost/csharp-cheatsheet/) |
-| **LINQ** | [LINQ Cheat Sheet](https://www.hackerearth.com/practice/notes/linq-cheat-sheet/) |
-| **Data Structures** | [Data Structures Cheat Sheet](https://www.geeksforgeeks.org/data-structures-in-csharp/) |
-| **Game Development** | [Unity Cheat Sheet](https://learn.unity.com/tutorial/unity-cheat-sheet) |
-| **Competitive Programming** | [CP Cheat Sheet](https://www.geeksforgeeks.org/csharp-cheat-sheet-for-competitive-programming/) |
+| **C# Basics** | [Cheat Sheet](https://www.c-sharpcorner.com/UploadFile/mahesh/C-Sharp-Cheat-Sheet/) |
+| **LINQ** | [LINQ Cheat Sheet](https://www.c-sharpcorner.com/UploadFile/puranindia/LINQ-Cheat-Sheet/) |
+| **Data Structures** | [Data Structures Cheat Sheet](https://www.c-sharpcorner.com/article/data-structures-in-C-Sharp/) |
+| **Unity** | [Unity Cheat Sheet](https://learn.unity.com/tutorial/unity-cheat-sheet) |
+| **ASP.NET Core** | [ASP.NET Core Cheat Sheet](https://www.c-sharpcorner.com/article/asp-net-core-cheat-sheet/) |
 
 ---
 
@@ -109,8 +109,8 @@ _A curated list of **100+ free resources** to learn C#, build projects, and join
 |----------|-------------|
 | **[r/csharp](https://www.reddit.com/r/csharp/)** | Reddit’s C# Q&A hub. |
 | **[C# Discord](https://discord.gg/csharp)** | Live chat for learners. |
-| **[C# Weekly](https://www.youtube.com/c/JasonTurner/playlists)** | Weekly C# tips and tricks. |
-| **[C# News](https://devblogs.microsoft.com/dotnet/)** | Official updates & events. |
+| **[C# Weekly](https://csharpdigest.net/)** | Newsletter with curated articles. |
+| **[.NET Blog](https://devblogs.microsoft.com/dotnet/)** | Official updates & events. |
 | **[Stack Overflow C#](https://stackoverflow.com/questions/tagged/c%23)** | Q&A for C# developers. |
 
 ---
@@ -131,17 +131,17 @@ _A curated list of **100+ free resources** to learn C#, build projects, and join
 |------|-------------|-------|
 | **[Awesome C#](https://github.com/fffaraz/awesome-csharp)** | 30k+ stars! Tools & frameworks. | ⭐30k |
 | **[C# Algorithms](https://github.com/TheAlgorithms/C-Sharp)** | Algorithms and data structures. | ⭐45k |
-| **[C# Game Development](https://github.com/Unity-Technologies/UnityCsReference)** | Unity library for game development. | ⭐10k |
-| **[C# STL](https://github.com/lnishan/awesome-csharp-stl)** | STL resources and examples. | ⭐5k |
-| **[C# Projects](https://github.com/radareorg/cutter)** | Reverse engineering tool. | ⭐10k |
+| **[Unity Projects](https://github.com/Unity-Technologies/UnityCsReference)** | Unity library for game development. | ⭐10k |
+| **[Clean Code C#](https://github.com/thangchung/clean-code-dotnet)** | Best practices for C# developers. | ⭐5k |
+| **[ASP.NET Core Samples](https://github.com/dotnet/aspnetcore)** | Official ASP.NET Core examples. | ⭐35k |
 
 ---
 
 ## ❓ **FAQ**
 **Q: Which resource should I start with?**  
-A: Beginners: **C# Yellow Book** or **freeCodeCamp C#**.  
+A: Beginners: **C# Yellow Book** or **freeCodeCamp C#** .  
 **Q: How to practice C# daily?**  
-A: Try **Codewars** or **Exercism**.  
+A: Try **Codewars** or **Exercism** .  
 **Q: How to contribute to open-source?**  
 A: Check [Good First Issues](https://goodfirstissue.dev/language/csharp).
 
