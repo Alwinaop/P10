@@ -156,4 +156,4 @@ A: Check [Good First Issues](https://goodfirstissue.dev/language/python).
 
 ---
 
-Found a broken link? [Report it here!](https://github.com/Alexcj10/Programming-17/issues)  
+Found a broken link? [Report it here!](https://github.com/Alexcj10/P10/issues)  
