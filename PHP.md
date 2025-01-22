@@ -53,7 +53,6 @@ _A curated list of **100+ free resources** to learn PHP, build projects, and joi
 | Playlist | Creator | Content |
 |----------|---------|---------|
 | **[PHP Tutorials](https://youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o)** | The Net Ninja | 100+ videos (OOP, Laravel). |
-| **[PHP Full Course](https://youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB)** | freeCodeCamp | 4-hour beginner to pro journey. |
 | **[PHP Projects](https://youtube.com/playlist?list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ)** | Tech With Tim | 20+ practical project walkthroughs. |
 | **[PHP & MySQL](https://youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)** | Traversy Media | Build dynamic websites. |
 | **[PHP Algorithms](https://youtube.com/playlist?list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC)** | freeCodeCamp | Algorithms and data structures. |
