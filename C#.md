@@ -1,6 +1,6 @@
 # 💻 Ultimate C# Learning & Project Guide
 
-_A curated list of **100+ free resources** to learn C#, build projects, and join the community. Updated for 2025!_
+_A curated list of **free resources** to learn C#, build projects, and join the community. Updated for 2025!_
 
 ---
 
