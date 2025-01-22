@@ -1,6 +1,6 @@
 # 🚀 Ultimate Go (Golang) Learning & Project Guide
 
-_A curated list of free resources to master Go programming, build scalable systems, and join the developer community_
+_A curated list of **free resources** to master Go programming, build scalable systems, and join the developer community_
 
 ---
 
