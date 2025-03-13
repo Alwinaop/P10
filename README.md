@@ -2,7 +2,7 @@
 
 Welcome to **P10**, a **curated, comprehensive, and community-driven repository** designed to help developers of all skill levels master the **world's top 10 programming languages**. Whether you're a beginner looking to start your coding journey or an experienced developer aiming to expand your expertise, P10 provides everything you need to learn, build, and excel.
 
-Created by [**Alexcj10**](https://github.com/Alexcj10), this repository is your **one-stop resource** for in-depth tutorials, hands-on projects, best practices, and tools for each of the top 10 programming languages. Dive in and discover the power of coding!
+Created by [**Alex Joshva**](https://github.com/alexjoshva), this repository is your **one-stop resource** for in-depth tutorials, hands-on projects, best practices, and tools for each of the top 10 programming languages. Dive in and discover the power of coding!
 
 ---
 
